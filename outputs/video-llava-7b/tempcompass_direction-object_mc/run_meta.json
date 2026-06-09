@@ -10,5 +10,8 @@
   "gpu": "NVIDIA A100-SXM4-40GB",
   "prediction_file": "predictions_multi-choice.json",
   "eval_file": "eval_multi-choice_disable_llm.json",
-  "timestamp": "2026-06-09 22:44:38"
+  "timestamp": "2026-06-09 22:44:38",
+  "num_correct": 85,
+  "accuracy": 0.3497942386831276,
+  "accuracy_percent": 35.0
 }
