@@ -1,0 +1,21 @@
+{
+  "model": "LanguageBind/Video-LLaVA-7B-hf",
+  "benchmark": "TempCompass",
+  "subset": "direction-object",
+  "task": "multi-choice",
+  "ablation": "frame_order_shuffle",
+  "num_questions": 243,
+  "num_correct": 84,
+  "accuracy": 0.345679012345679,
+  "accuracy_percent": 34.6,
+  "num_frames": 8,
+  "frame_order": "random_shuffle",
+  "shuffle_base_seed": 20260609,
+  "shuffle_mode": "deterministic_per_video",
+  "quantization": "4bit",
+  "video_dir": "/content/drive/MyDrive/tempcompass/videos",
+  "gpu": "NVIDIA L4",
+  "prediction_file": "predictions_multi-choice.json",
+  "eval_file": "eval_multi-choice_disable_llm.json",
+  "permutation_file": "frame_permutations.json"
+}
