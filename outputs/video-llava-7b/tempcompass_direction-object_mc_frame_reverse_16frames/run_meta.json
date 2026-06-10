@@ -1,0 +1,20 @@
+{
+  "model": "LanguageBind/Video-LLaVA-7B-hf",
+  "benchmark": "TempCompass",
+  "subset": "direction-object",
+  "task": "multi-choice",
+  "experiment_name": "frame_reverse_16frames",
+  "frame_order_mode": "reverse",
+  "num_questions": 243,
+  "num_correct": 77,
+  "accuracy": 0.3168724279835391,
+  "accuracy_percent": 31.7,
+  "num_frames": 16,
+  "shuffle_base_seed": null,
+  "quantization": "4bit",
+  "video_dir": "/content/drive/MyDrive/tempcompass/videos",
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "prediction_file": "predictions_multi-choice.json",
+  "eval_file": "eval_multi-choice_disable_llm.json",
+  "permutation_file": "frame_permutations.json"
+}
