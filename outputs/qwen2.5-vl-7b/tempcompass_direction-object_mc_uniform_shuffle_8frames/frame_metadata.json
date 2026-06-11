@@ -1,0 +1,3794 @@
+{
+  "1034419625": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1034419625.mp4",
+    "total_decoded_frames": 165,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      23,
+      46,
+      70,
+      93,
+      117,
+      140,
+      164
+    ],
+    "order_positions_after_sampling": [
+      7,
+      2,
+      1,
+      5,
+      0,
+      6,
+      3,
+      4
+    ],
+    "final_frame_indices": [
+      164,
+      46,
+      23,
+      117,
+      0,
+      140,
+      70,
+      93
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625/0007.jpg"
+    ]
+  },
+  "1034419625_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1034419625_reverse.mp4",
+    "total_decoded_frames": 165,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      23,
+      46,
+      70,
+      93,
+      117,
+      140,
+      164
+    ],
+    "order_positions_after_sampling": [
+      2,
+      3,
+      0,
+      4,
+      5,
+      1,
+      6,
+      7
+    ],
+    "final_frame_indices": [
+      46,
+      70,
+      0,
+      93,
+      117,
+      23,
+      140,
+      164
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034419625_reverse/0007.jpg"
+    ]
+  },
+  "1094590221": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1094590221.mp4",
+    "total_decoded_frames": 153,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      21,
+      43,
+      65,
+      86,
+      108,
+      130,
+      152
+    ],
+    "order_positions_after_sampling": [
+      7,
+      4,
+      3,
+      0,
+      6,
+      1,
+      2,
+      5
+    ],
+    "final_frame_indices": [
+      152,
+      86,
+      65,
+      0,
+      130,
+      21,
+      43,
+      108
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221/0007.jpg"
+    ]
+  },
+  "1094590221_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1094590221_reverse.mp4",
+    "total_decoded_frames": 153,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      21,
+      43,
+      65,
+      86,
+      108,
+      130,
+      152
+    ],
+    "order_positions_after_sampling": [
+      6,
+      4,
+      5,
+      0,
+      1,
+      2,
+      3,
+      7
+    ],
+    "final_frame_indices": [
+      130,
+      86,
+      108,
+      0,
+      21,
+      43,
+      65,
+      152
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1094590221_reverse/0007.jpg"
+    ]
+  },
+  "1111657885": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1111657885.mp4",
+    "total_decoded_frames": 88,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      12,
+      24,
+      37,
+      49,
+      62,
+      74,
+      87
+    ],
+    "order_positions_after_sampling": [
+      4,
+      0,
+      7,
+      1,
+      5,
+      3,
+      6,
+      2
+    ],
+    "final_frame_indices": [
+      49,
+      0,
+      87,
+      12,
+      62,
+      37,
+      74,
+      24
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885/0007.jpg"
+    ]
+  },
+  "1111657885_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1111657885_reverse.mp4",
+    "total_decoded_frames": 88,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      12,
+      24,
+      37,
+      49,
+      62,
+      74,
+      87
+    ],
+    "order_positions_after_sampling": [
+      2,
+      7,
+      0,
+      1,
+      6,
+      3,
+      5,
+      4
+    ],
+    "final_frame_indices": [
+      24,
+      87,
+      0,
+      12,
+      74,
+      37,
+      62,
+      49
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1111657885_reverse/0007.jpg"
+    ]
+  },
+  "1059718130": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1059718130.mp4",
+    "total_decoded_frames": 251,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      35,
+      71,
+      107,
+      142,
+      178,
+      214,
+      250
+    ],
+    "order_positions_after_sampling": [
+      6,
+      3,
+      5,
+      0,
+      1,
+      7,
+      2,
+      4
+    ],
+    "final_frame_indices": [
+      214,
+      107,
+      178,
+      0,
+      35,
+      250,
+      71,
+      142
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130/0007.jpg"
+    ]
+  },
+  "1059718130_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1059718130_reverse.mp4",
+    "total_decoded_frames": 251,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      35,
+      71,
+      107,
+      142,
+      178,
+      214,
+      250
+    ],
+    "order_positions_after_sampling": [
+      7,
+      5,
+      0,
+      1,
+      6,
+      4,
+      3,
+      2
+    ],
+    "final_frame_indices": [
+      250,
+      178,
+      0,
+      35,
+      214,
+      142,
+      107,
+      71
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059718130_reverse/0007.jpg"
+    ]
+  },
+  "1083845854": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1083845854.mp4",
+    "total_decoded_frames": 46,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      6,
+      12,
+      19,
+      25,
+      32,
+      38,
+      45
+    ],
+    "order_positions_after_sampling": [
+      4,
+      6,
+      1,
+      2,
+      3,
+      5,
+      7,
+      0
+    ],
+    "final_frame_indices": [
+      25,
+      38,
+      6,
+      12,
+      19,
+      32,
+      45,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854/0007.jpg"
+    ]
+  },
+  "1083845854_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1083845854_reverse.mp4",
+    "total_decoded_frames": 46,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      6,
+      12,
+      19,
+      25,
+      32,
+      38,
+      45
+    ],
+    "order_positions_after_sampling": [
+      6,
+      0,
+      7,
+      5,
+      4,
+      3,
+      2,
+      1
+    ],
+    "final_frame_indices": [
+      38,
+      0,
+      45,
+      32,
+      25,
+      19,
+      12,
+      6
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1083845854_reverse/0007.jpg"
+    ]
+  },
+  "1089201973": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1089201973.mp4",
+    "total_decoded_frames": 75,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      10,
+      21,
+      31,
+      42,
+      52,
+      63,
+      74
+    ],
+    "order_positions_after_sampling": [
+      1,
+      3,
+      6,
+      2,
+      7,
+      4,
+      5,
+      0
+    ],
+    "final_frame_indices": [
+      10,
+      31,
+      63,
+      21,
+      74,
+      42,
+      52,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973/0007.jpg"
+    ]
+  },
+  "1034736653": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1034736653.mp4",
+    "total_decoded_frames": 250,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      35,
+      71,
+      106,
+      142,
+      177,
+      213,
+      249
+    ],
+    "order_positions_after_sampling": [
+      1,
+      6,
+      7,
+      0,
+      3,
+      4,
+      5,
+      2
+    ],
+    "final_frame_indices": [
+      35,
+      213,
+      249,
+      0,
+      106,
+      142,
+      177,
+      71
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653/0007.jpg"
+    ]
+  },
+  "1084153195": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1084153195.mp4",
+    "total_decoded_frames": 476,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      67,
+      135,
+      203,
+      271,
+      339,
+      407,
+      475
+    ],
+    "order_positions_after_sampling": [
+      1,
+      6,
+      0,
+      2,
+      7,
+      5,
+      3,
+      4
+    ],
+    "final_frame_indices": [
+      67,
+      407,
+      0,
+      135,
+      475,
+      339,
+      203,
+      271
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195/0007.jpg"
+    ]
+  },
+  "1081092839": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1081092839.mp4",
+    "total_decoded_frames": 618,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      88,
+      176,
+      264,
+      352,
+      440,
+      528,
+      617
+    ],
+    "order_positions_after_sampling": [
+      1,
+      6,
+      3,
+      0,
+      2,
+      7,
+      5,
+      4
+    ],
+    "final_frame_indices": [
+      88,
+      528,
+      264,
+      0,
+      176,
+      617,
+      440,
+      352
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839/0007.jpg"
+    ]
+  },
+  "1059462749": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1059462749.mp4",
+    "total_decoded_frames": 457,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      65,
+      130,
+      195,
+      260,
+      325,
+      390,
+      456
+    ],
+    "order_positions_after_sampling": [
+      1,
+      0,
+      6,
+      7,
+      4,
+      5,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      65,
+      0,
+      390,
+      456,
+      260,
+      325,
+      130,
+      195
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749/0007.jpg"
+    ]
+  },
+  "1088279109": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1088279109.mp4",
+    "total_decoded_frames": 475,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      67,
+      135,
+      203,
+      270,
+      338,
+      406,
+      474
+    ],
+    "order_positions_after_sampling": [
+      6,
+      1,
+      2,
+      3,
+      7,
+      4,
+      5,
+      0
+    ],
+    "final_frame_indices": [
+      406,
+      67,
+      135,
+      203,
+      474,
+      270,
+      338,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109/0007.jpg"
+    ]
+  },
+  "1075484900": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1075484900.mp4",
+    "total_decoded_frames": 259,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      36,
+      73,
+      110,
+      147,
+      184,
+      221,
+      258
+    ],
+    "order_positions_after_sampling": [
+      4,
+      1,
+      0,
+      3,
+      6,
+      2,
+      5,
+      7
+    ],
+    "final_frame_indices": [
+      147,
+      36,
+      0,
+      110,
+      221,
+      73,
+      184,
+      258
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900/0007.jpg"
+    ]
+  },
+  "1090578917": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1090578917.mp4",
+    "total_decoded_frames": 451,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      64,
+      128,
+      192,
+      257,
+      321,
+      385,
+      450
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      6,
+      5,
+      3,
+      4,
+      2,
+      7
+    ],
+    "final_frame_indices": [
+      0,
+      64,
+      385,
+      321,
+      192,
+      257,
+      128,
+      450
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917/0007.jpg"
+    ]
+  },
+  "1075338140": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1075338140.mp4",
+    "total_decoded_frames": 270,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      38,
+      76,
+      115,
+      153,
+      192,
+      230,
+      269
+    ],
+    "order_positions_after_sampling": [
+      1,
+      0,
+      6,
+      4,
+      2,
+      3,
+      5,
+      7
+    ],
+    "final_frame_indices": [
+      38,
+      0,
+      230,
+      153,
+      76,
+      115,
+      192,
+      269
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140/0007.jpg"
+    ]
+  },
+  "1067268403": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1067268403.mp4",
+    "total_decoded_frames": 300,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      42,
+      85,
+      128,
+      170,
+      213,
+      256,
+      299
+    ],
+    "order_positions_after_sampling": [
+      5,
+      3,
+      4,
+      2,
+      1,
+      0,
+      6,
+      7
+    ],
+    "final_frame_indices": [
+      213,
+      128,
+      170,
+      85,
+      42,
+      0,
+      256,
+      299
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403/0007.jpg"
+    ]
+  },
+  "1096007487": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1096007487.mp4",
+    "total_decoded_frames": 360,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      51,
+      102,
+      153,
+      205,
+      256,
+      307,
+      359
+    ],
+    "order_positions_after_sampling": [
+      1,
+      3,
+      6,
+      0,
+      2,
+      7,
+      5,
+      4
+    ],
+    "final_frame_indices": [
+      51,
+      153,
+      307,
+      0,
+      102,
+      359,
+      256,
+      205
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487/0007.jpg"
+    ]
+  },
+  "1095939659": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1095939659.mp4",
+    "total_decoded_frames": 588,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      83,
+      167,
+      251,
+      335,
+      419,
+      503,
+      587
+    ],
+    "order_positions_after_sampling": [
+      4,
+      1,
+      6,
+      3,
+      2,
+      7,
+      5,
+      0
+    ],
+    "final_frame_indices": [
+      335,
+      83,
+      503,
+      251,
+      167,
+      587,
+      419,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659/0007.jpg"
+    ]
+  },
+  "1059632327": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1059632327.mp4",
+    "total_decoded_frames": 263,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      37,
+      74,
+      112,
+      149,
+      187,
+      224,
+      262
+    ],
+    "order_positions_after_sampling": [
+      7,
+      5,
+      0,
+      3,
+      4,
+      2,
+      6,
+      1
+    ],
+    "final_frame_indices": [
+      262,
+      187,
+      0,
+      112,
+      149,
+      74,
+      224,
+      37
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059632327/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059632327/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059632327/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059632327/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059632327/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059632327/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059632327/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059632327/0007.jpg"
+    ]
+  },
+  "1098785169": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1098785169.mp4",
+    "total_decoded_frames": 251,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      35,
+      71,
+      107,
+      142,
+      178,
+      214,
+      250
+    ],
+    "order_positions_after_sampling": [
+      0,
+      5,
+      4,
+      7,
+      1,
+      3,
+      6,
+      2
+    ],
+    "final_frame_indices": [
+      0,
+      178,
+      142,
+      250,
+      35,
+      107,
+      214,
+      71
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169/0007.jpg"
+    ]
+  },
+  "1099984801": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1099984801.mp4",
+    "total_decoded_frames": 400,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      57,
+      114,
+      171,
+      228,
+      285,
+      342,
+      399
+    ],
+    "order_positions_after_sampling": [
+      5,
+      0,
+      3,
+      4,
+      2,
+      7,
+      6,
+      1
+    ],
+    "final_frame_indices": [
+      285,
+      0,
+      171,
+      228,
+      114,
+      399,
+      342,
+      57
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801/0007.jpg"
+    ]
+  },
+  "1058985719": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1058985719.mp4",
+    "total_decoded_frames": 251,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      35,
+      71,
+      107,
+      142,
+      178,
+      214,
+      250
+    ],
+    "order_positions_after_sampling": [
+      4,
+      1,
+      0,
+      6,
+      3,
+      7,
+      2,
+      5
+    ],
+    "final_frame_indices": [
+      142,
+      35,
+      0,
+      214,
+      107,
+      250,
+      71,
+      178
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719/0007.jpg"
+    ]
+  },
+  "1055413730": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1055413730.mp4",
+    "total_decoded_frames": 240,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      34,
+      68,
+      102,
+      136,
+      170,
+      204,
+      239
+    ],
+    "order_positions_after_sampling": [
+      2,
+      4,
+      1,
+      5,
+      6,
+      7,
+      0,
+      3
+    ],
+    "final_frame_indices": [
+      68,
+      136,
+      34,
+      170,
+      204,
+      239,
+      0,
+      102
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730/0007.jpg"
+    ]
+  },
+  "1081684532": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1081684532.mp4",
+    "total_decoded_frames": 301,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      42,
+      85,
+      128,
+      171,
+      214,
+      257,
+      300
+    ],
+    "order_positions_after_sampling": [
+      5,
+      4,
+      0,
+      1,
+      6,
+      7,
+      3,
+      2
+    ],
+    "final_frame_indices": [
+      214,
+      171,
+      0,
+      42,
+      257,
+      300,
+      128,
+      85
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532/0007.jpg"
+    ]
+  },
+  "1057163434": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1057163434.mp4",
+    "total_decoded_frames": 234,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      33,
+      66,
+      99,
+      133,
+      166,
+      199,
+      233
+    ],
+    "order_positions_after_sampling": [
+      5,
+      1,
+      2,
+      0,
+      4,
+      6,
+      7,
+      3
+    ],
+    "final_frame_indices": [
+      166,
+      33,
+      66,
+      0,
+      133,
+      199,
+      233,
+      99
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434/0007.jpg"
+    ]
+  },
+  "1100319395": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1100319395.mp4",
+    "total_decoded_frames": 222,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      31,
+      63,
+      94,
+      126,
+      157,
+      189,
+      221
+    ],
+    "order_positions_after_sampling": [
+      7,
+      6,
+      4,
+      5,
+      2,
+      0,
+      3,
+      1
+    ],
+    "final_frame_indices": [
+      221,
+      189,
+      126,
+      157,
+      63,
+      0,
+      94,
+      31
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395/0007.jpg"
+    ]
+  },
+  "3396473605": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/3396473605.mp4",
+    "total_decoded_frames": 120,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      17,
+      34,
+      51,
+      68,
+      85,
+      102,
+      119
+    ],
+    "order_positions_after_sampling": [
+      7,
+      5,
+      4,
+      3,
+      6,
+      1,
+      0,
+      2
+    ],
+    "final_frame_indices": [
+      119,
+      85,
+      68,
+      51,
+      102,
+      17,
+      0,
+      34
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605/0007.jpg"
+    ]
+  },
+  "1086820415": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1086820415.mp4",
+    "total_decoded_frames": 150,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      21,
+      42,
+      63,
+      85,
+      106,
+      127,
+      149
+    ],
+    "order_positions_after_sampling": [
+      5,
+      6,
+      2,
+      0,
+      7,
+      1,
+      4,
+      3
+    ],
+    "final_frame_indices": [
+      106,
+      127,
+      42,
+      0,
+      149,
+      21,
+      85,
+      63
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415/0007.jpg"
+    ]
+  },
+  "1073831006": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1073831006.mp4",
+    "total_decoded_frames": 733,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      104,
+      209,
+      313,
+      418,
+      522,
+      627,
+      732
+    ],
+    "order_positions_after_sampling": [
+      5,
+      3,
+      6,
+      1,
+      0,
+      4,
+      7,
+      2
+    ],
+    "final_frame_indices": [
+      522,
+      313,
+      627,
+      104,
+      0,
+      418,
+      732,
+      209
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006/0007.jpg"
+    ]
+  },
+  "1092278063": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1092278063.mp4",
+    "total_decoded_frames": 360,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      51,
+      102,
+      153,
+      205,
+      256,
+      307,
+      359
+    ],
+    "order_positions_after_sampling": [
+      5,
+      1,
+      7,
+      3,
+      6,
+      4,
+      0,
+      2
+    ],
+    "final_frame_indices": [
+      256,
+      51,
+      359,
+      153,
+      307,
+      205,
+      0,
+      102
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1092278063/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1092278063/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1092278063/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1092278063/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1092278063/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1092278063/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1092278063/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1092278063/0007.jpg"
+    ]
+  },
+  "1024867412": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1024867412.mp4",
+    "total_decoded_frames": 150,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      21,
+      42,
+      63,
+      85,
+      106,
+      127,
+      149
+    ],
+    "order_positions_after_sampling": [
+      0,
+      7,
+      5,
+      3,
+      1,
+      6,
+      4,
+      2
+    ],
+    "final_frame_indices": [
+      0,
+      149,
+      106,
+      63,
+      21,
+      127,
+      85,
+      42
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412/0007.jpg"
+    ]
+  },
+  "1076877854": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1076877854.mp4",
+    "total_decoded_frames": 120,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      17,
+      34,
+      51,
+      68,
+      85,
+      102,
+      119
+    ],
+    "order_positions_after_sampling": [
+      3,
+      5,
+      1,
+      2,
+      4,
+      0,
+      7,
+      6
+    ],
+    "final_frame_indices": [
+      51,
+      85,
+      17,
+      34,
+      68,
+      0,
+      119,
+      102
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854/0007.jpg"
+    ]
+  },
+  "3411806181": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/3411806181.mp4",
+    "total_decoded_frames": 527,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      75,
+      150,
+      225,
+      300,
+      375,
+      450,
+      526
+    ],
+    "order_positions_after_sampling": [
+      6,
+      1,
+      2,
+      4,
+      7,
+      3,
+      0,
+      5
+    ],
+    "final_frame_indices": [
+      450,
+      75,
+      150,
+      300,
+      526,
+      225,
+      0,
+      375
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181/0007.jpg"
+    ]
+  },
+  "1056433484": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1056433484.mp4",
+    "total_decoded_frames": 360,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      51,
+      102,
+      153,
+      205,
+      256,
+      307,
+      359
+    ],
+    "order_positions_after_sampling": [
+      3,
+      5,
+      2,
+      6,
+      4,
+      1,
+      0,
+      7
+    ],
+    "final_frame_indices": [
+      153,
+      256,
+      102,
+      307,
+      205,
+      51,
+      0,
+      359
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1056433484/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1056433484/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1056433484/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1056433484/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1056433484/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1056433484/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1056433484/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1056433484/0007.jpg"
+    ]
+  },
+  "1073914229": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1073914229.mp4",
+    "total_decoded_frames": 120,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      17,
+      34,
+      51,
+      68,
+      85,
+      102,
+      119
+    ],
+    "order_positions_after_sampling": [
+      3,
+      0,
+      4,
+      5,
+      1,
+      2,
+      6,
+      7
+    ],
+    "final_frame_indices": [
+      51,
+      0,
+      68,
+      85,
+      17,
+      34,
+      102,
+      119
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229/0007.jpg"
+    ]
+  },
+  "1080591311": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1080591311.mp4",
+    "total_decoded_frames": 150,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      21,
+      42,
+      63,
+      85,
+      106,
+      127,
+      149
+    ],
+    "order_positions_after_sampling": [
+      2,
+      5,
+      7,
+      1,
+      0,
+      3,
+      6,
+      4
+    ],
+    "final_frame_indices": [
+      42,
+      106,
+      149,
+      21,
+      0,
+      63,
+      127,
+      85
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311/0007.jpg"
+    ]
+  },
+  "1100117263": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1100117263.mp4",
+    "total_decoded_frames": 168,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      23,
+      47,
+      71,
+      95,
+      119,
+      143,
+      167
+    ],
+    "order_positions_after_sampling": [
+      2,
+      5,
+      6,
+      7,
+      4,
+      1,
+      3,
+      0
+    ],
+    "final_frame_indices": [
+      47,
+      119,
+      143,
+      167,
+      95,
+      23,
+      71,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263/0007.jpg"
+    ]
+  },
+  "1021488277": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1021488277.mp4",
+    "total_decoded_frames": 203,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      28,
+      57,
+      86,
+      115,
+      144,
+      173,
+      202
+    ],
+    "order_positions_after_sampling": [
+      3,
+      4,
+      2,
+      1,
+      7,
+      0,
+      6,
+      5
+    ],
+    "final_frame_indices": [
+      86,
+      115,
+      57,
+      28,
+      202,
+      0,
+      173,
+      144
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277/0007.jpg"
+    ]
+  },
+  "1100397435": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1100397435.mp4",
+    "total_decoded_frames": 302,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      43,
+      86,
+      129,
+      172,
+      215,
+      258,
+      301
+    ],
+    "order_positions_after_sampling": [
+      4,
+      7,
+      6,
+      1,
+      5,
+      2,
+      3,
+      0
+    ],
+    "final_frame_indices": [
+      172,
+      301,
+      258,
+      43,
+      215,
+      86,
+      129,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435/0007.jpg"
+    ]
+  },
+  "1108534143": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1108534143.mp4",
+    "total_decoded_frames": 303,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      43,
+      86,
+      129,
+      172,
+      215,
+      258,
+      302
+    ],
+    "order_positions_after_sampling": [
+      1,
+      5,
+      3,
+      4,
+      7,
+      6,
+      2,
+      0
+    ],
+    "final_frame_indices": [
+      43,
+      215,
+      129,
+      172,
+      302,
+      258,
+      86,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143/0007.jpg"
+    ]
+  },
+  "1047368344": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1047368344.mp4",
+    "total_decoded_frames": 336,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      47,
+      95,
+      143,
+      191,
+      239,
+      287,
+      335
+    ],
+    "order_positions_after_sampling": [
+      5,
+      1,
+      6,
+      4,
+      7,
+      2,
+      0,
+      3
+    ],
+    "final_frame_indices": [
+      239,
+      47,
+      287,
+      191,
+      335,
+      95,
+      0,
+      143
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344/0007.jpg"
+    ]
+  },
+  "1089201973_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1089201973_reverse.mp4",
+    "total_decoded_frames": 75,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      10,
+      21,
+      31,
+      42,
+      52,
+      63,
+      74
+    ],
+    "order_positions_after_sampling": [
+      2,
+      3,
+      6,
+      5,
+      4,
+      1,
+      0,
+      7
+    ],
+    "final_frame_indices": [
+      21,
+      31,
+      63,
+      52,
+      42,
+      10,
+      0,
+      74
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1089201973_reverse/0007.jpg"
+    ]
+  },
+  "1034736653_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1034736653_reverse.mp4",
+    "total_decoded_frames": 250,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      35,
+      71,
+      106,
+      142,
+      177,
+      213,
+      249
+    ],
+    "order_positions_after_sampling": [
+      6,
+      4,
+      2,
+      3,
+      7,
+      1,
+      5,
+      0
+    ],
+    "final_frame_indices": [
+      213,
+      142,
+      71,
+      106,
+      249,
+      35,
+      177,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1034736653_reverse/0007.jpg"
+    ]
+  },
+  "1084153195_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1084153195_reverse.mp4",
+    "total_decoded_frames": 476,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      67,
+      135,
+      203,
+      271,
+      339,
+      407,
+      475
+    ],
+    "order_positions_after_sampling": [
+      4,
+      6,
+      0,
+      5,
+      3,
+      2,
+      1,
+      7
+    ],
+    "final_frame_indices": [
+      271,
+      407,
+      0,
+      339,
+      203,
+      135,
+      67,
+      475
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1084153195_reverse/0007.jpg"
+    ]
+  },
+  "1081092839_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1081092839_reverse.mp4",
+    "total_decoded_frames": 618,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      88,
+      176,
+      264,
+      352,
+      440,
+      528,
+      617
+    ],
+    "order_positions_after_sampling": [
+      4,
+      6,
+      0,
+      2,
+      1,
+      5,
+      7,
+      3
+    ],
+    "final_frame_indices": [
+      352,
+      528,
+      0,
+      176,
+      88,
+      440,
+      617,
+      264
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081092839_reverse/0007.jpg"
+    ]
+  },
+  "1059462749_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1059462749_reverse.mp4",
+    "total_decoded_frames": 457,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      65,
+      130,
+      195,
+      260,
+      325,
+      390,
+      456
+    ],
+    "order_positions_after_sampling": [
+      4,
+      0,
+      6,
+      1,
+      5,
+      2,
+      3,
+      7
+    ],
+    "final_frame_indices": [
+      260,
+      0,
+      390,
+      65,
+      325,
+      130,
+      195,
+      456
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1059462749_reverse/0007.jpg"
+    ]
+  },
+  "1088279109_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1088279109_reverse.mp4",
+    "total_decoded_frames": 475,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      67,
+      135,
+      203,
+      270,
+      338,
+      406,
+      474
+    ],
+    "order_positions_after_sampling": [
+      5,
+      7,
+      6,
+      4,
+      1,
+      2,
+      3,
+      0
+    ],
+    "final_frame_indices": [
+      338,
+      474,
+      406,
+      270,
+      67,
+      135,
+      203,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1088279109_reverse/0007.jpg"
+    ]
+  },
+  "1075484900_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1075484900_reverse.mp4",
+    "total_decoded_frames": 259,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      36,
+      73,
+      110,
+      147,
+      184,
+      221,
+      258
+    ],
+    "order_positions_after_sampling": [
+      6,
+      5,
+      7,
+      2,
+      4,
+      3,
+      0,
+      1
+    ],
+    "final_frame_indices": [
+      221,
+      184,
+      258,
+      73,
+      147,
+      110,
+      0,
+      36
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075484900_reverse/0007.jpg"
+    ]
+  },
+  "1090578917_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1090578917_reverse.mp4",
+    "total_decoded_frames": 451,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      64,
+      128,
+      192,
+      257,
+      321,
+      385,
+      450
+    ],
+    "order_positions_after_sampling": [
+      2,
+      7,
+      3,
+      1,
+      4,
+      5,
+      6,
+      0
+    ],
+    "final_frame_indices": [
+      128,
+      450,
+      192,
+      64,
+      257,
+      321,
+      385,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1090578917_reverse/0007.jpg"
+    ]
+  },
+  "1075338140_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1075338140_reverse.mp4",
+    "total_decoded_frames": 270,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      38,
+      76,
+      115,
+      153,
+      192,
+      230,
+      269
+    ],
+    "order_positions_after_sampling": [
+      0,
+      5,
+      2,
+      6,
+      4,
+      1,
+      7,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      192,
+      76,
+      230,
+      153,
+      38,
+      269,
+      115
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1075338140_reverse/0007.jpg"
+    ]
+  },
+  "1067268403_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1067268403_reverse.mp4",
+    "total_decoded_frames": 300,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      42,
+      85,
+      128,
+      170,
+      213,
+      256,
+      299
+    ],
+    "order_positions_after_sampling": [
+      7,
+      6,
+      2,
+      3,
+      4,
+      1,
+      0,
+      5
+    ],
+    "final_frame_indices": [
+      299,
+      256,
+      85,
+      128,
+      170,
+      42,
+      0,
+      213
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1067268403_reverse/0007.jpg"
+    ]
+  },
+  "1096007487_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1096007487_reverse.mp4",
+    "total_decoded_frames": 360,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      51,
+      102,
+      153,
+      205,
+      256,
+      307,
+      359
+    ],
+    "order_positions_after_sampling": [
+      1,
+      6,
+      5,
+      7,
+      4,
+      0,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      51,
+      307,
+      256,
+      359,
+      205,
+      0,
+      102,
+      153
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1096007487_reverse/0007.jpg"
+    ]
+  },
+  "1095939659_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1095939659_reverse.mp4",
+    "total_decoded_frames": 588,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      83,
+      167,
+      251,
+      335,
+      419,
+      503,
+      587
+    ],
+    "order_positions_after_sampling": [
+      5,
+      6,
+      1,
+      2,
+      3,
+      0,
+      7,
+      4
+    ],
+    "final_frame_indices": [
+      419,
+      503,
+      83,
+      167,
+      251,
+      0,
+      587,
+      335
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1095939659_reverse/0007.jpg"
+    ]
+  },
+  "1098785169_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1098785169_reverse.mp4",
+    "total_decoded_frames": 251,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      35,
+      71,
+      107,
+      142,
+      178,
+      214,
+      250
+    ],
+    "order_positions_after_sampling": [
+      6,
+      5,
+      2,
+      7,
+      1,
+      3,
+      4,
+      0
+    ],
+    "final_frame_indices": [
+      214,
+      178,
+      71,
+      250,
+      35,
+      107,
+      142,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1098785169_reverse/0007.jpg"
+    ]
+  },
+  "1099984801_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1099984801_reverse.mp4",
+    "total_decoded_frames": 400,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      57,
+      114,
+      171,
+      228,
+      285,
+      342,
+      399
+    ],
+    "order_positions_after_sampling": [
+      6,
+      4,
+      7,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "final_frame_indices": [
+      342,
+      228,
+      399,
+      171,
+      285,
+      57,
+      114,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1099984801_reverse/0007.jpg"
+    ]
+  },
+  "1058985719_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1058985719_reverse.mp4",
+    "total_decoded_frames": 251,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      35,
+      71,
+      107,
+      142,
+      178,
+      214,
+      250
+    ],
+    "order_positions_after_sampling": [
+      4,
+      7,
+      6,
+      2,
+      5,
+      1,
+      0,
+      3
+    ],
+    "final_frame_indices": [
+      142,
+      250,
+      214,
+      71,
+      178,
+      35,
+      0,
+      107
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1058985719_reverse/0007.jpg"
+    ]
+  },
+  "1055413730_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1055413730_reverse.mp4",
+    "total_decoded_frames": 240,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      34,
+      68,
+      102,
+      136,
+      170,
+      204,
+      239
+    ],
+    "order_positions_after_sampling": [
+      5,
+      6,
+      4,
+      7,
+      3,
+      1,
+      2,
+      0
+    ],
+    "final_frame_indices": [
+      170,
+      204,
+      136,
+      239,
+      102,
+      34,
+      68,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1055413730_reverse/0007.jpg"
+    ]
+  },
+  "1081684532_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1081684532_reverse.mp4",
+    "total_decoded_frames": 301,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      42,
+      85,
+      128,
+      171,
+      214,
+      257,
+      300
+    ],
+    "order_positions_after_sampling": [
+      5,
+      4,
+      0,
+      3,
+      2,
+      7,
+      1,
+      6
+    ],
+    "final_frame_indices": [
+      214,
+      171,
+      0,
+      128,
+      85,
+      300,
+      42,
+      257
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1081684532_reverse/0007.jpg"
+    ]
+  },
+  "1057163434_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1057163434_reverse.mp4",
+    "total_decoded_frames": 234,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      33,
+      66,
+      99,
+      133,
+      166,
+      199,
+      233
+    ],
+    "order_positions_after_sampling": [
+      5,
+      2,
+      0,
+      4,
+      6,
+      7,
+      1,
+      3
+    ],
+    "final_frame_indices": [
+      166,
+      66,
+      0,
+      133,
+      199,
+      233,
+      33,
+      99
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1057163434_reverse/0007.jpg"
+    ]
+  },
+  "1100319395_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1100319395_reverse.mp4",
+    "total_decoded_frames": 222,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      31,
+      63,
+      94,
+      126,
+      157,
+      189,
+      221
+    ],
+    "order_positions_after_sampling": [
+      4,
+      1,
+      2,
+      7,
+      0,
+      6,
+      3,
+      5
+    ],
+    "final_frame_indices": [
+      126,
+      31,
+      63,
+      221,
+      0,
+      189,
+      94,
+      157
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100319395_reverse/0007.jpg"
+    ]
+  },
+  "3396473605_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/3396473605_reverse.mp4",
+    "total_decoded_frames": 120,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      17,
+      34,
+      51,
+      68,
+      85,
+      102,
+      119
+    ],
+    "order_positions_after_sampling": [
+      3,
+      6,
+      1,
+      4,
+      2,
+      0,
+      7,
+      5
+    ],
+    "final_frame_indices": [
+      51,
+      102,
+      17,
+      68,
+      34,
+      0,
+      119,
+      85
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3396473605_reverse/0007.jpg"
+    ]
+  },
+  "1086820415_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1086820415_reverse.mp4",
+    "total_decoded_frames": 150,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      21,
+      42,
+      63,
+      85,
+      106,
+      127,
+      149
+    ],
+    "order_positions_after_sampling": [
+      1,
+      3,
+      6,
+      5,
+      2,
+      7,
+      4,
+      0
+    ],
+    "final_frame_indices": [
+      21,
+      63,
+      127,
+      106,
+      42,
+      149,
+      85,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086820415_reverse/0007.jpg"
+    ]
+  },
+  "1073831006_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1073831006_reverse.mp4",
+    "total_decoded_frames": 733,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      104,
+      209,
+      313,
+      418,
+      522,
+      627,
+      732
+    ],
+    "order_positions_after_sampling": [
+      7,
+      5,
+      1,
+      6,
+      0,
+      2,
+      3,
+      4
+    ],
+    "final_frame_indices": [
+      732,
+      522,
+      104,
+      627,
+      0,
+      209,
+      313,
+      418
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073831006_reverse/0007.jpg"
+    ]
+  },
+  "1024867412_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1024867412_reverse.mp4",
+    "total_decoded_frames": 150,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      21,
+      42,
+      63,
+      85,
+      106,
+      127,
+      149
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      7,
+      6,
+      5,
+      4,
+      3,
+      2
+    ],
+    "final_frame_indices": [
+      0,
+      21,
+      149,
+      127,
+      106,
+      85,
+      63,
+      42
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1024867412_reverse/0007.jpg"
+    ]
+  },
+  "1076877854_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1076877854_reverse.mp4",
+    "total_decoded_frames": 120,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      17,
+      34,
+      51,
+      68,
+      85,
+      102,
+      119
+    ],
+    "order_positions_after_sampling": [
+      0,
+      6,
+      3,
+      5,
+      1,
+      2,
+      7,
+      4
+    ],
+    "final_frame_indices": [
+      0,
+      102,
+      51,
+      85,
+      17,
+      34,
+      119,
+      68
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1076877854_reverse/0007.jpg"
+    ]
+  },
+  "3411806181_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/3411806181_reverse.mp4",
+    "total_decoded_frames": 527,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      75,
+      150,
+      225,
+      300,
+      375,
+      450,
+      526
+    ],
+    "order_positions_after_sampling": [
+      3,
+      2,
+      4,
+      1,
+      5,
+      6,
+      7,
+      0
+    ],
+    "final_frame_indices": [
+      225,
+      150,
+      300,
+      75,
+      375,
+      450,
+      526,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/3411806181_reverse/0007.jpg"
+    ]
+  },
+  "1073914229_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1073914229_reverse.mp4",
+    "total_decoded_frames": 120,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      17,
+      34,
+      51,
+      68,
+      85,
+      102,
+      119
+    ],
+    "order_positions_after_sampling": [
+      6,
+      4,
+      1,
+      7,
+      2,
+      3,
+      0,
+      5
+    ],
+    "final_frame_indices": [
+      102,
+      68,
+      17,
+      119,
+      34,
+      51,
+      0,
+      85
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1073914229_reverse/0007.jpg"
+    ]
+  },
+  "1080591311_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1080591311_reverse.mp4",
+    "total_decoded_frames": 150,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      21,
+      42,
+      63,
+      85,
+      106,
+      127,
+      149
+    ],
+    "order_positions_after_sampling": [
+      3,
+      4,
+      1,
+      2,
+      7,
+      0,
+      6,
+      5
+    ],
+    "final_frame_indices": [
+      63,
+      85,
+      21,
+      42,
+      149,
+      0,
+      127,
+      106
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1080591311_reverse/0007.jpg"
+    ]
+  },
+  "1100117263_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1100117263_reverse.mp4",
+    "total_decoded_frames": 168,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      23,
+      47,
+      71,
+      95,
+      119,
+      143,
+      167
+    ],
+    "order_positions_after_sampling": [
+      1,
+      4,
+      3,
+      0,
+      6,
+      7,
+      5,
+      2
+    ],
+    "final_frame_indices": [
+      23,
+      95,
+      71,
+      0,
+      143,
+      167,
+      119,
+      47
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100117263_reverse/0007.jpg"
+    ]
+  },
+  "1021488277_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1021488277_reverse.mp4",
+    "total_decoded_frames": 203,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      28,
+      57,
+      86,
+      115,
+      144,
+      173,
+      202
+    ],
+    "order_positions_after_sampling": [
+      5,
+      7,
+      3,
+      6,
+      4,
+      2,
+      1,
+      0
+    ],
+    "final_frame_indices": [
+      144,
+      202,
+      86,
+      173,
+      115,
+      57,
+      28,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1021488277_reverse/0007.jpg"
+    ]
+  },
+  "1100397435_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1100397435_reverse.mp4",
+    "total_decoded_frames": 302,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      43,
+      86,
+      129,
+      172,
+      215,
+      258,
+      301
+    ],
+    "order_positions_after_sampling": [
+      6,
+      3,
+      5,
+      0,
+      7,
+      2,
+      4,
+      1
+    ],
+    "final_frame_indices": [
+      258,
+      129,
+      215,
+      0,
+      301,
+      86,
+      172,
+      43
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1100397435_reverse/0007.jpg"
+    ]
+  },
+  "1108534143_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1108534143_reverse.mp4",
+    "total_decoded_frames": 303,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      43,
+      86,
+      129,
+      172,
+      215,
+      258,
+      302
+    ],
+    "order_positions_after_sampling": [
+      5,
+      3,
+      7,
+      4,
+      1,
+      0,
+      2,
+      6
+    ],
+    "final_frame_indices": [
+      215,
+      129,
+      302,
+      172,
+      43,
+      0,
+      86,
+      258
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1108534143_reverse/0007.jpg"
+    ]
+  },
+  "1047368344_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1047368344_reverse.mp4",
+    "total_decoded_frames": 336,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      47,
+      95,
+      143,
+      191,
+      239,
+      287,
+      335
+    ],
+    "order_positions_after_sampling": [
+      3,
+      6,
+      4,
+      7,
+      2,
+      0,
+      1,
+      5
+    ],
+    "final_frame_indices": [
+      143,
+      287,
+      191,
+      335,
+      95,
+      0,
+      47,
+      239
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344_reverse/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344_reverse/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344_reverse/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344_reverse/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1047368344_reverse/0007.jpg"
+    ]
+  },
+  "1086286649": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1086286649.mp4",
+    "total_decoded_frames": 390,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      55,
+      111,
+      166,
+      222,
+      277,
+      333,
+      389
+    ],
+    "order_positions_after_sampling": [
+      6,
+      1,
+      0,
+      7,
+      4,
+      5,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      333,
+      55,
+      0,
+      389,
+      222,
+      277,
+      111,
+      166
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086286649/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086286649/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086286649/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086286649/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086286649/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086286649/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086286649/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1086286649/0007.jpg"
+    ]
+  },
+  "1104663381": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1104663381.mp4",
+    "total_decoded_frames": 306,
+    "num_frames_requested": 8,
+    "num_frames_used": 8,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "shuffle",
+    "sampled_frame_indices": [
+      0,
+      43,
+      87,
+      130,
+      174,
+      217,
+      261,
+      305
+    ],
+    "order_positions_after_sampling": [
+      6,
+      1,
+      2,
+      7,
+      3,
+      4,
+      5,
+      0
+    ],
+    "final_frame_indices": [
+      261,
+      43,
+      87,
+      305,
+      130,
+      174,
+      217,
+      0
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1104663381/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1104663381/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1104663381/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1104663381/0003.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1104663381/0004.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1104663381/0005.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1104663381/0006.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_shuffle_8frames/1104663381/0007.jpg"
+    ]
+  }
+}
