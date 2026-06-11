@@ -1,0 +1,2530 @@
+{
+  "1034419625": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1034419625.mp4",
+    "total_decoded_frames": 165,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      54,
+      109,
+      164
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      54,
+      109,
+      164
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034419625/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034419625/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034419625/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034419625/0003.jpg"
+    ]
+  },
+  "1034419625_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1034419625_reverse.mp4",
+    "total_decoded_frames": 165,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      54,
+      109,
+      164
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      54,
+      109,
+      164
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034419625_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034419625_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034419625_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034419625_reverse/0003.jpg"
+    ]
+  },
+  "1094590221": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1094590221.mp4",
+    "total_decoded_frames": 153,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      50,
+      101,
+      152
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      50,
+      101,
+      152
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1094590221/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1094590221/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1094590221/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1094590221/0003.jpg"
+    ]
+  },
+  "1094590221_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1094590221_reverse.mp4",
+    "total_decoded_frames": 153,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      50,
+      101,
+      152
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      50,
+      101,
+      152
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1094590221_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1094590221_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1094590221_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1094590221_reverse/0003.jpg"
+    ]
+  },
+  "1111657885": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1111657885.mp4",
+    "total_decoded_frames": 88,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      29,
+      58,
+      87
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      29,
+      58,
+      87
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1111657885/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1111657885/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1111657885/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1111657885/0003.jpg"
+    ]
+  },
+  "1111657885_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1111657885_reverse.mp4",
+    "total_decoded_frames": 88,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      29,
+      58,
+      87
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      29,
+      58,
+      87
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1111657885_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1111657885_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1111657885_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1111657885_reverse/0003.jpg"
+    ]
+  },
+  "1059718130": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1059718130.mp4",
+    "total_decoded_frames": 251,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      83,
+      166,
+      250
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      83,
+      166,
+      250
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059718130/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059718130/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059718130/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059718130/0003.jpg"
+    ]
+  },
+  "1059718130_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1059718130_reverse.mp4",
+    "total_decoded_frames": 251,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      83,
+      166,
+      250
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      83,
+      166,
+      250
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059718130_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059718130_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059718130_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059718130_reverse/0003.jpg"
+    ]
+  },
+  "1083845854": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1083845854.mp4",
+    "total_decoded_frames": 46,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      15,
+      30,
+      45
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      15,
+      30,
+      45
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1083845854/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1083845854/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1083845854/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1083845854/0003.jpg"
+    ]
+  },
+  "1083845854_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1083845854_reverse.mp4",
+    "total_decoded_frames": 46,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      15,
+      30,
+      45
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      15,
+      30,
+      45
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1083845854_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1083845854_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1083845854_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1083845854_reverse/0003.jpg"
+    ]
+  },
+  "1089201973": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1089201973.mp4",
+    "total_decoded_frames": 75,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      24,
+      49,
+      74
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      24,
+      49,
+      74
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1089201973/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1089201973/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1089201973/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1089201973/0003.jpg"
+    ]
+  },
+  "1034736653": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1034736653.mp4",
+    "total_decoded_frames": 250,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      83,
+      166,
+      249
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      83,
+      166,
+      249
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034736653/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034736653/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034736653/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034736653/0003.jpg"
+    ]
+  },
+  "1084153195": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1084153195.mp4",
+    "total_decoded_frames": 476,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      158,
+      316,
+      475
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      158,
+      316,
+      475
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1084153195/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1084153195/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1084153195/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1084153195/0003.jpg"
+    ]
+  },
+  "1081092839": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1081092839.mp4",
+    "total_decoded_frames": 618,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      205,
+      411,
+      617
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      205,
+      411,
+      617
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081092839/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081092839/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081092839/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081092839/0003.jpg"
+    ]
+  },
+  "1059462749": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1059462749.mp4",
+    "total_decoded_frames": 457,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      152,
+      304,
+      456
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      152,
+      304,
+      456
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059462749/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059462749/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059462749/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059462749/0003.jpg"
+    ]
+  },
+  "1088279109": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1088279109.mp4",
+    "total_decoded_frames": 475,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      158,
+      316,
+      474
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      158,
+      316,
+      474
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1088279109/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1088279109/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1088279109/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1088279109/0003.jpg"
+    ]
+  },
+  "1075484900": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1075484900.mp4",
+    "total_decoded_frames": 259,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      86,
+      172,
+      258
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      86,
+      172,
+      258
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075484900/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075484900/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075484900/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075484900/0003.jpg"
+    ]
+  },
+  "1090578917": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1090578917.mp4",
+    "total_decoded_frames": 451,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      150,
+      300,
+      450
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      150,
+      300,
+      450
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1090578917/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1090578917/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1090578917/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1090578917/0003.jpg"
+    ]
+  },
+  "1075338140": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1075338140.mp4",
+    "total_decoded_frames": 270,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      89,
+      179,
+      269
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      89,
+      179,
+      269
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075338140/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075338140/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075338140/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075338140/0003.jpg"
+    ]
+  },
+  "1067268403": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1067268403.mp4",
+    "total_decoded_frames": 300,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      99,
+      199,
+      299
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      99,
+      199,
+      299
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1067268403/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1067268403/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1067268403/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1067268403/0003.jpg"
+    ]
+  },
+  "1096007487": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1096007487.mp4",
+    "total_decoded_frames": 360,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      119,
+      239,
+      359
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      119,
+      239,
+      359
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1096007487/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1096007487/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1096007487/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1096007487/0003.jpg"
+    ]
+  },
+  "1095939659": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1095939659.mp4",
+    "total_decoded_frames": 588,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      195,
+      391,
+      587
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      195,
+      391,
+      587
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1095939659/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1095939659/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1095939659/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1095939659/0003.jpg"
+    ]
+  },
+  "1059632327": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1059632327.mp4",
+    "total_decoded_frames": 263,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      87,
+      174,
+      262
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      87,
+      174,
+      262
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059632327/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059632327/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059632327/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059632327/0003.jpg"
+    ]
+  },
+  "1098785169": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1098785169.mp4",
+    "total_decoded_frames": 251,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      83,
+      166,
+      250
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      83,
+      166,
+      250
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1098785169/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1098785169/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1098785169/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1098785169/0003.jpg"
+    ]
+  },
+  "1099984801": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1099984801.mp4",
+    "total_decoded_frames": 400,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      133,
+      266,
+      399
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      133,
+      266,
+      399
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1099984801/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1099984801/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1099984801/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1099984801/0003.jpg"
+    ]
+  },
+  "1058985719": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1058985719.mp4",
+    "total_decoded_frames": 251,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      83,
+      166,
+      250
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      83,
+      166,
+      250
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1058985719/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1058985719/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1058985719/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1058985719/0003.jpg"
+    ]
+  },
+  "1055413730": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1055413730.mp4",
+    "total_decoded_frames": 240,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      79,
+      159,
+      239
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      79,
+      159,
+      239
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1055413730/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1055413730/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1055413730/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1055413730/0003.jpg"
+    ]
+  },
+  "1081684532": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1081684532.mp4",
+    "total_decoded_frames": 301,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      100,
+      200,
+      300
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      100,
+      200,
+      300
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081684532/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081684532/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081684532/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081684532/0003.jpg"
+    ]
+  },
+  "1057163434": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1057163434.mp4",
+    "total_decoded_frames": 234,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      77,
+      155,
+      233
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      77,
+      155,
+      233
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1057163434/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1057163434/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1057163434/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1057163434/0003.jpg"
+    ]
+  },
+  "1100319395": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1100319395.mp4",
+    "total_decoded_frames": 222,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      73,
+      147,
+      221
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      73,
+      147,
+      221
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100319395/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100319395/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100319395/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100319395/0003.jpg"
+    ]
+  },
+  "3396473605": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/3396473605.mp4",
+    "total_decoded_frames": 120,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      39,
+      79,
+      119
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      39,
+      79,
+      119
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3396473605/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3396473605/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3396473605/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3396473605/0003.jpg"
+    ]
+  },
+  "1086820415": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1086820415.mp4",
+    "total_decoded_frames": 150,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      49,
+      99,
+      149
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      49,
+      99,
+      149
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1086820415/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1086820415/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1086820415/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1086820415/0003.jpg"
+    ]
+  },
+  "1073831006": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1073831006.mp4",
+    "total_decoded_frames": 733,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      244,
+      488,
+      732
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      244,
+      488,
+      732
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073831006/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073831006/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073831006/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073831006/0003.jpg"
+    ]
+  },
+  "1092278063": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1092278063.mp4",
+    "total_decoded_frames": 360,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      119,
+      239,
+      359
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      119,
+      239,
+      359
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1092278063/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1092278063/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1092278063/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1092278063/0003.jpg"
+    ]
+  },
+  "1024867412": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1024867412.mp4",
+    "total_decoded_frames": 150,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      49,
+      99,
+      149
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      49,
+      99,
+      149
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1024867412/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1024867412/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1024867412/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1024867412/0003.jpg"
+    ]
+  },
+  "1076877854": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1076877854.mp4",
+    "total_decoded_frames": 120,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      39,
+      79,
+      119
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      39,
+      79,
+      119
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1076877854/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1076877854/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1076877854/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1076877854/0003.jpg"
+    ]
+  },
+  "3411806181": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/3411806181.mp4",
+    "total_decoded_frames": 527,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      175,
+      350,
+      526
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      175,
+      350,
+      526
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3411806181/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3411806181/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3411806181/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3411806181/0003.jpg"
+    ]
+  },
+  "1056433484": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1056433484.mp4",
+    "total_decoded_frames": 360,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      119,
+      239,
+      359
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      119,
+      239,
+      359
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1056433484/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1056433484/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1056433484/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1056433484/0003.jpg"
+    ]
+  },
+  "1073914229": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1073914229.mp4",
+    "total_decoded_frames": 120,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      39,
+      79,
+      119
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      39,
+      79,
+      119
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073914229/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073914229/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073914229/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073914229/0003.jpg"
+    ]
+  },
+  "1080591311": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1080591311.mp4",
+    "total_decoded_frames": 150,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      49,
+      99,
+      149
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      49,
+      99,
+      149
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1080591311/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1080591311/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1080591311/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1080591311/0003.jpg"
+    ]
+  },
+  "1100117263": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1100117263.mp4",
+    "total_decoded_frames": 168,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      55,
+      111,
+      167
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      55,
+      111,
+      167
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100117263/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100117263/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100117263/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100117263/0003.jpg"
+    ]
+  },
+  "1021488277": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1021488277.mp4",
+    "total_decoded_frames": 203,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      67,
+      134,
+      202
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      67,
+      134,
+      202
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1021488277/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1021488277/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1021488277/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1021488277/0003.jpg"
+    ]
+  },
+  "1100397435": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1100397435.mp4",
+    "total_decoded_frames": 302,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      100,
+      200,
+      301
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      100,
+      200,
+      301
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100397435/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100397435/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100397435/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100397435/0003.jpg"
+    ]
+  },
+  "1108534143": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1108534143.mp4",
+    "total_decoded_frames": 303,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      100,
+      201,
+      302
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      100,
+      201,
+      302
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1108534143/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1108534143/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1108534143/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1108534143/0003.jpg"
+    ]
+  },
+  "1047368344": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1047368344.mp4",
+    "total_decoded_frames": 336,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      111,
+      223,
+      335
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      111,
+      223,
+      335
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1047368344/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1047368344/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1047368344/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1047368344/0003.jpg"
+    ]
+  },
+  "1089201973_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1089201973_reverse.mp4",
+    "total_decoded_frames": 75,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      24,
+      49,
+      74
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      24,
+      49,
+      74
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1089201973_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1089201973_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1089201973_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1089201973_reverse/0003.jpg"
+    ]
+  },
+  "1034736653_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1034736653_reverse.mp4",
+    "total_decoded_frames": 250,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      83,
+      166,
+      249
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      83,
+      166,
+      249
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034736653_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034736653_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034736653_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1034736653_reverse/0003.jpg"
+    ]
+  },
+  "1084153195_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1084153195_reverse.mp4",
+    "total_decoded_frames": 476,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      158,
+      316,
+      475
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      158,
+      316,
+      475
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1084153195_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1084153195_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1084153195_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1084153195_reverse/0003.jpg"
+    ]
+  },
+  "1081092839_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1081092839_reverse.mp4",
+    "total_decoded_frames": 618,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      205,
+      411,
+      617
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      205,
+      411,
+      617
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081092839_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081092839_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081092839_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081092839_reverse/0003.jpg"
+    ]
+  },
+  "1059462749_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1059462749_reverse.mp4",
+    "total_decoded_frames": 457,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      152,
+      304,
+      456
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      152,
+      304,
+      456
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059462749_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059462749_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059462749_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1059462749_reverse/0003.jpg"
+    ]
+  },
+  "1088279109_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1088279109_reverse.mp4",
+    "total_decoded_frames": 475,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      158,
+      316,
+      474
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      158,
+      316,
+      474
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1088279109_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1088279109_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1088279109_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1088279109_reverse/0003.jpg"
+    ]
+  },
+  "1075484900_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1075484900_reverse.mp4",
+    "total_decoded_frames": 259,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      86,
+      172,
+      258
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      86,
+      172,
+      258
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075484900_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075484900_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075484900_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075484900_reverse/0003.jpg"
+    ]
+  },
+  "1090578917_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1090578917_reverse.mp4",
+    "total_decoded_frames": 451,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      150,
+      300,
+      450
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      150,
+      300,
+      450
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1090578917_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1090578917_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1090578917_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1090578917_reverse/0003.jpg"
+    ]
+  },
+  "1075338140_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1075338140_reverse.mp4",
+    "total_decoded_frames": 270,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      89,
+      179,
+      269
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      89,
+      179,
+      269
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075338140_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075338140_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075338140_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1075338140_reverse/0003.jpg"
+    ]
+  },
+  "1067268403_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1067268403_reverse.mp4",
+    "total_decoded_frames": 300,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      99,
+      199,
+      299
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      99,
+      199,
+      299
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1067268403_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1067268403_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1067268403_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1067268403_reverse/0003.jpg"
+    ]
+  },
+  "1096007487_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1096007487_reverse.mp4",
+    "total_decoded_frames": 360,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      119,
+      239,
+      359
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      119,
+      239,
+      359
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1096007487_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1096007487_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1096007487_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1096007487_reverse/0003.jpg"
+    ]
+  },
+  "1095939659_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1095939659_reverse.mp4",
+    "total_decoded_frames": 588,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      195,
+      391,
+      587
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      195,
+      391,
+      587
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1095939659_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1095939659_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1095939659_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1095939659_reverse/0003.jpg"
+    ]
+  },
+  "1098785169_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1098785169_reverse.mp4",
+    "total_decoded_frames": 251,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      83,
+      166,
+      250
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      83,
+      166,
+      250
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1098785169_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1098785169_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1098785169_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1098785169_reverse/0003.jpg"
+    ]
+  },
+  "1099984801_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1099984801_reverse.mp4",
+    "total_decoded_frames": 400,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      133,
+      266,
+      399
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      133,
+      266,
+      399
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1099984801_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1099984801_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1099984801_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1099984801_reverse/0003.jpg"
+    ]
+  },
+  "1058985719_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1058985719_reverse.mp4",
+    "total_decoded_frames": 251,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      83,
+      166,
+      250
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      83,
+      166,
+      250
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1058985719_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1058985719_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1058985719_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1058985719_reverse/0003.jpg"
+    ]
+  },
+  "1055413730_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1055413730_reverse.mp4",
+    "total_decoded_frames": 240,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      79,
+      159,
+      239
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      79,
+      159,
+      239
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1055413730_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1055413730_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1055413730_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1055413730_reverse/0003.jpg"
+    ]
+  },
+  "1081684532_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1081684532_reverse.mp4",
+    "total_decoded_frames": 301,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      100,
+      200,
+      300
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      100,
+      200,
+      300
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081684532_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081684532_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081684532_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1081684532_reverse/0003.jpg"
+    ]
+  },
+  "1057163434_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1057163434_reverse.mp4",
+    "total_decoded_frames": 234,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      77,
+      155,
+      233
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      77,
+      155,
+      233
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1057163434_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1057163434_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1057163434_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1057163434_reverse/0003.jpg"
+    ]
+  },
+  "1100319395_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1100319395_reverse.mp4",
+    "total_decoded_frames": 222,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      73,
+      147,
+      221
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      73,
+      147,
+      221
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100319395_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100319395_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100319395_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100319395_reverse/0003.jpg"
+    ]
+  },
+  "3396473605_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/3396473605_reverse.mp4",
+    "total_decoded_frames": 120,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      39,
+      79,
+      119
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      39,
+      79,
+      119
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3396473605_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3396473605_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3396473605_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3396473605_reverse/0003.jpg"
+    ]
+  },
+  "1086820415_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1086820415_reverse.mp4",
+    "total_decoded_frames": 150,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      49,
+      99,
+      149
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      49,
+      99,
+      149
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1086820415_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1086820415_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1086820415_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1086820415_reverse/0003.jpg"
+    ]
+  },
+  "1073831006_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1073831006_reverse.mp4",
+    "total_decoded_frames": 733,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      244,
+      488,
+      732
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      244,
+      488,
+      732
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073831006_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073831006_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073831006_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073831006_reverse/0003.jpg"
+    ]
+  },
+  "1024867412_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1024867412_reverse.mp4",
+    "total_decoded_frames": 150,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      49,
+      99,
+      149
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      49,
+      99,
+      149
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1024867412_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1024867412_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1024867412_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1024867412_reverse/0003.jpg"
+    ]
+  },
+  "1076877854_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1076877854_reverse.mp4",
+    "total_decoded_frames": 120,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      39,
+      79,
+      119
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      39,
+      79,
+      119
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1076877854_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1076877854_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1076877854_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1076877854_reverse/0003.jpg"
+    ]
+  },
+  "3411806181_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/3411806181_reverse.mp4",
+    "total_decoded_frames": 527,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      175,
+      350,
+      526
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      175,
+      350,
+      526
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3411806181_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3411806181_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3411806181_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/3411806181_reverse/0003.jpg"
+    ]
+  },
+  "1073914229_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1073914229_reverse.mp4",
+    "total_decoded_frames": 120,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      39,
+      79,
+      119
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      39,
+      79,
+      119
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073914229_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073914229_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073914229_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1073914229_reverse/0003.jpg"
+    ]
+  },
+  "1080591311_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1080591311_reverse.mp4",
+    "total_decoded_frames": 150,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      49,
+      99,
+      149
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      49,
+      99,
+      149
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1080591311_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1080591311_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1080591311_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1080591311_reverse/0003.jpg"
+    ]
+  },
+  "1100117263_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1100117263_reverse.mp4",
+    "total_decoded_frames": 168,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      55,
+      111,
+      167
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      55,
+      111,
+      167
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100117263_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100117263_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100117263_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100117263_reverse/0003.jpg"
+    ]
+  },
+  "1021488277_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1021488277_reverse.mp4",
+    "total_decoded_frames": 203,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      67,
+      134,
+      202
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      67,
+      134,
+      202
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1021488277_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1021488277_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1021488277_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1021488277_reverse/0003.jpg"
+    ]
+  },
+  "1100397435_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1100397435_reverse.mp4",
+    "total_decoded_frames": 302,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      100,
+      200,
+      301
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      100,
+      200,
+      301
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100397435_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100397435_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100397435_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1100397435_reverse/0003.jpg"
+    ]
+  },
+  "1108534143_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1108534143_reverse.mp4",
+    "total_decoded_frames": 303,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      100,
+      201,
+      302
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      100,
+      201,
+      302
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1108534143_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1108534143_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1108534143_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1108534143_reverse/0003.jpg"
+    ]
+  },
+  "1047368344_reverse": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1047368344_reverse.mp4",
+    "total_decoded_frames": 336,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      111,
+      223,
+      335
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      111,
+      223,
+      335
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1047368344_reverse/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1047368344_reverse/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1047368344_reverse/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1047368344_reverse/0003.jpg"
+    ]
+  },
+  "1086286649": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1086286649.mp4",
+    "total_decoded_frames": 390,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      129,
+      259,
+      389
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      129,
+      259,
+      389
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1086286649/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1086286649/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1086286649/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1086286649/0003.jpg"
+    ]
+  },
+  "1104663381": {
+    "video_path": "/content/drive/MyDrive/tempcompass/videos/1104663381.mp4",
+    "total_decoded_frames": 306,
+    "num_frames_requested": 4,
+    "num_frames_used": 4,
+    "sampling_strategy": "uniform",
+    "frame_order_mode": "original",
+    "sampled_frame_indices": [
+      0,
+      101,
+      203,
+      305
+    ],
+    "order_positions_after_sampling": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "final_frame_indices": [
+      0,
+      101,
+      203,
+      305
+    ],
+    "frame_paths": [
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1104663381/0000.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1104663381/0001.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1104663381/0002.jpg",
+      "file:///content/frame_cache/qwen25-vl-uniform_original_4frames/1104663381/0003.jpg"
+    ]
+  }
+}
