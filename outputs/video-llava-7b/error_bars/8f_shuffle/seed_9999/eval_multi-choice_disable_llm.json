@@ -1,0 +1,2019 @@
+{
+    "1034419625": {
+        "direction": [
+            {
+                "question": "What is the direction of the man?\nA. moving towards the camera\nB. moving from left to right\nC. moving away from the camera",
+                "gt-answer": "B. moving from left to right",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "From the camera's point of view, in which direction is the man moving?\nA. away from the camera\nB. towards the camera\nC. from left to right",
+                "gt-answer": "C. from left to right",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In relation to the camera's position, which way is the man headed?\nA. from left to right\nB. towards the camera\nC. from right to left",
+                "gt-answer": "A. from left to right",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1034419625_reverse": {
+        "direction": [
+            {
+                "question": "What is the direction of the man?\nA. moving towards the camera\nB. moving from right to left\nC. moving away from the camera\nD. moving from left to right",
+                "gt-answer": "B. moving from right to left",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "From the camera's point of view, in which direction is the man moving?\nA. away from the camera\nB. towards the camera\nC. from right to left\nD. from left to right",
+                "gt-answer": "C. from right to left",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In relation to the camera's position, which way is the man headed?\nA. from right to left\nB. towards the camera\nC. from left to right\nD. away from the camera",
+                "gt-answer": "A. from right to left",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1094590221": {
+        "direction": [
+            {
+                "question": "What direction is the basketball moving?\nA. straight ahead\nB. left to right\nC. right to left",
+                "gt-answer": "C. right to left",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "How does the basketball move in the horizontal direction?\nA. left to right\nB. right to left\nC. standing still",
+                "gt-answer": "B. right to left",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "From which side of the screen does the basketball ends moving?\nA. right top\nB. right bottom\nC. left bottom\nD. left top",
+                "gt-answer": "C. left bottom",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1094590221_reverse": {
+        "direction": [
+            {
+                "question": "What direction is the basketball moving?\nA. straight ahead\nB. left to right\nC. right to left",
+                "gt-answer": "B. left to right",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "How does the basketball move in the horizontal direction?\nA. left to right\nB. right to left\nC. standing still",
+                "gt-answer": "A. left to right",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "From which side of the screen does the basketball start moving?\nA. right top\nB. right bottom\nC. left bottom\nD. left top",
+                "gt-answer": "C. left bottom",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1111657885": {
+        "direction": [
+            {
+                "question": "Which direction are the people skating?\nA. towards the camera\nB. parallel to the screen\nC. away from the camera",
+                "gt-answer": "A. towards the camera",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In what direction are the people moving?\nA. standing still\nB. towards the camera\nC. from right to left in relation to the camera\nD. away from the camera",
+                "gt-answer": "B. towards the camera",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "How would you describe the movement of the people?\nA. gliding away from the camera\nB. gliding towards the camera\nC. gliding parallel the camera",
+                "gt-answer": "B. gliding towards the camera",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1111657885_reverse": {
+        "direction": [
+            {
+                "question": "Which direction are the people skating?\nA. towards the camera\nB. parallel to the screen\nC. away from the camera",
+                "gt-answer": "C. away from the camera",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "In what direction are the people moving?\nA. standing still\nB. towards the camera\nC. from right to left in relation to the camera\nD. away from the camera",
+                "gt-answer": "D. away from the camera",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "How would you describe the movement of the people?\nA. gliding away from the camera\nB. gliding towards the camera\nC. gliding parallel the camera",
+                "gt-answer": "A. gliding away from the camera",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1059718130": {
+        "direction": [
+            {
+                "question": "What direction is the sun moving in?\nA. falling\nB. rising\nC. staying in one place",
+                "gt-answer": "B. rising",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the direction of the sun?\nA. stationary\nB. falling\nC. rising",
+                "gt-answer": "C. rising",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the primary movement of the sun?\nA. descending\nB. standing still\nC. rising",
+                "gt-answer": "C. rising",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1059718130_reverse": {
+        "direction": [
+            {
+                "question": "What direction is the sun moving in?\nA. setting\nB. rising\nC. staying in one place",
+                "gt-answer": "A. setting",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the direction of the sun?\nA. stationary\nB. falling\nC. rising",
+                "gt-answer": "B. falling",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the primary movement of the sun?\nA. descending\nB. standing still\nC. rising",
+                "gt-answer": "A. descending",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1083845854": {
+        "direction": [
+            {
+                "question": "What is the direction in which the clock hands are moving?\nA. counterclockwise\nB. clockwise\nC. stationary",
+                "gt-answer": "B. clockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "How are the clock hands changing their orientation?\nA. standing still\nB. moving clockwise\nC. moving anti-clockwise",
+                "gt-answer": "B. moving clockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "In what direction are the clock hands moving?\nA. clockwise\nB. alternating between clockwise and counterclockwise\nC. counterclockwise",
+                "gt-answer": "A. clockwise",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1083845854_reverse": {
+        "direction": [
+            {
+                "question": "What is the direction in which the clock hands are moving?\nA. counterclockwise\nB. clockwise\nC. stationary",
+                "gt-answer": "A. counterclockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "How are the clock hands changing their orientation?\nA. standing still\nB. moving clockwise\nC. moving anti-clockwise",
+                "gt-answer": "C. moving anti-clockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In what direction are the clock hands moving?\nA. clockwise\nB. alternating between clockwise and counterclockwise\nC. counterclockwise",
+                "gt-answer": "C. counterclockwise",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1089201973": {
+        "direction": [
+            {
+                "question": "What is the direction of the football in the video?\nA. moving from left to right\nB. moving from right to left\nC. stationary",
+                "gt-answer": "A. moving from left to right",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "In which direction is the football traveling?\nA. Rightwards\nB. Upwards\nC. Leftwards\nD. Downwards",
+                "gt-answer": "A. Rightwards",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "How would you describe the path of the football?\nA. from bottom to top\nB. from right to left\nC. from left to right\nD. from top to bottom",
+                "gt-answer": "C. from left to right",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1034736653": {
+        "direction": [
+            {
+                "question": "In which direction are the woman athletes running?\nA. from right to left\nB. in circles\nC. from left to right",
+                "gt-answer": "C. from left to right",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "From which side are the woman athletes entering the screen?\nA. right\nB. top\nC. left\nD. bottom",
+                "gt-answer": "C. left",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Which way are the woman athletes heading?\nA. from left to right\nB. away from the camera\nC. from right to left\nD. towards the camera",
+                "gt-answer": "A. from left to right",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1084153195": {
+        "direction": [
+            {
+                "question": "What is the movement of the dolphins?\nA. swimming towards the shore\nB. hovering in one place\nC. swimming away from the shore",
+                "gt-answer": "A. swimming towards the shore",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction are the dolphins swimming?\nA. parallel to the shore\nB. towards the shore\nC. away from the shore",
+                "gt-answer": "B. towards the shore",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "If you observe the dolphins, what direction would you notice them heading?\nA. towards the shore\nB. parallel to the shore\nC. away from the shore",
+                "gt-answer": "A. towards the shore",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1081092839": {
+        "direction": [
+            {
+                "question": "What is the direction of the sun?\nA. descending\nB. ascending\nC. moving sideways",
+                "gt-answer": "A. descending",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the movement pattern of the sun?\nA. falling\nB. rising\nC. remaining still",
+                "gt-answer": "A. falling",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the movement direction of the sun?\nA. descending\nB. ascending\nC. rotating",
+                "gt-answer": "A. descending",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "In what direction does the sun travel during sunset?\nA. downwards\nB. upwards\nC. horizontally",
+                "gt-answer": "A. downwards",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1059462749": {
+        "direction": [
+            {
+                "question": "In which direction is the person moving?\nA. rightwards\nB. downwards\nC. upwards\nD. leftwards",
+                "gt-answer": "B. downwards",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What word describes the movement of the person?\nA. standing\nB. descending\nC. climbing up\nD. jumping",
+                "gt-answer": "B. descending",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "From a higher point to a lower point, the person is:\nA. rotating\nB. rising\nC. staying still\nD. descending",
+                "gt-answer": "D. descending",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1088279109": {
+        "direction": [
+            {
+                "question": "What is the elevator doing?\nA. rising\nB. going down\nC. staying still",
+                "gt-answer": "A. rising",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "In which direction is the elevator moving?\nA. up\nB. down\nC. not moving",
+                "gt-answer": "A. up",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the direction of the elevator's movement?\nA. descending\nB. ascending\nC. stationary",
+                "gt-answer": "B. ascending",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Which way is the elevator going?\nA. up\nB. down\nC. stopped",
+                "gt-answer": "A. up",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1075484900": {
+        "direction": [
+            {
+                "question": "Which way is the child facing in relation to the man?\nA. Forward\nB. Turning towards the man\nC. Turning away from the man\nD. Backward",
+                "gt-answer": "C. Turning away from the man",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In what direction is the child moving in relation to the man?\nA. Backward\nB. Forward\nC. Turning away from the man\nD. Turning towards the man",
+                "gt-answer": "C. Turning away from the man",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the orientation of the child with respect to the man?\nA. Downwards\nB. Upwards\nC. Turning away from the man\nD. Turning towards the man",
+                "gt-answer": "C. Turning away from the man",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1090578917": {
+        "direction": [
+            {
+                "question": "What direction is the man leaping?\nA. to his left\nB. backward\nC. forward\nD. to his right",
+                "gt-answer": "D. to his right",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which way is the man moving?\nA. left\nB. forwards\nC. right\nD. up",
+                "gt-answer": "C. right",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the direction of the man's movement?\nA. counterclockwise\nB. horizontal\nC. vertically\nD. clockwise",
+                "gt-answer": "B. horizontal",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1075338140": {
+        "direction": [
+            {
+                "question": "What is the direction of the ball?\nA. forward and backward\nB. spinning in place\nC. rolling from left to right\nD. rolling from right to left",
+                "gt-answer": "C. rolling from left to right",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Which way is the ball moving?\nA. counterclockwise\nB. rolling from left to right\nC. clockwise\nD. rolling from right to left",
+                "gt-answer": "B. rolling from left to right",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "In which direction does the ball travel?\nA. straight ahead\nB. rolling from left to right\nC. rolling from right to left\nD. floating in mid-air",
+                "gt-answer": "B. rolling from left to right",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1067268403": {
+        "direction": [
+            {
+                "question": "What is the movement direction of the wind turbines?\nA. Stationary\nB. Rotating clockwise\nC. Rotating counterclockwise",
+                "gt-answer": "B. Rotating clockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Which way are the wind turbines rotating?\nA. Randomly\nB. Clockwise\nC. Anti-clockwise",
+                "gt-answer": "B. Clockwise",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction are the wind turbines turning?\nA. Anticlockwise\nB. Still\nC. Clockwise",
+                "gt-answer": "C. Clockwise",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the rotational direction of the wind turbines?\nA. Clockwise\nB. Anti-clockwise\nC. Unchanging",
+                "gt-answer": "A. Clockwise",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1096007487": {
+        "direction": [
+            {
+                "question": "From the camera's point of view, in which direction is the 3d cloud moving?\nA. upward\nB. downward\nC. leftward\nD. rightward",
+                "gt-answer": "C. leftward",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "How is the 3d cloud moving from the camera's point of view?\nA. contracting\nB. spinning leftward\nC. spinning rightward\nD. expanding",
+                "gt-answer": "B. spinning leftward",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the movement pattern of the 3d cloud as seen from the camera's point of view?\nA. from right to left\nB. rotating clockwise\nC. rotating counter-clockwise\nD. from left to right",
+                "gt-answer": "A. from right to left",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1095939659": {
+        "direction": [
+            {
+                "question": "In which direction is the light growing?\nA. Downwards\nB. Clockwise\nC. Counterclockwise\nD. Upwards",
+                "gt-answer": "B. Clockwise",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the direction of the light's movement?\nA. Clockwise\nB. Anticlockwise\nC. Straight forward\nD. Downwards",
+                "gt-answer": "A. Clockwise",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "How is the light changing direction?\nA. Spinning vertically\nB. Rotating clockwise\nC. Shifting diagonally\nD. Growing counterclockwise",
+                "gt-answer": "B. Rotating clockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1059632327": {
+        "direction": [
+            {
+                "question": "What is the direction of the tennis ball?\nA. bouncing up and down\nB. spinning clockwise and anticlockwise\nC. rolling forward and backward\nD. bouncing left to right",
+                "gt-answer": "A. bouncing up and down",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Which direction does the tennis ball move in?\nA. moving in a circular path\nB. floating in mid-air\nC. moving in a zigzag pattern\nD. bouncing up and down",
+                "gt-answer": "D. bouncing up and down",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction does the tennis ball travel?\nA. bouncing up and down\nB. shooting straight ahead\nC. staying stationary\nD. bouncing side to side",
+                "gt-answer": "A. bouncing up and down",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1098785169": {
+        "direction": [
+            {
+                "question": "What is the direction of the galaxy's spin?\nA. counterclockwise\nB. left to right\nC. clockwise\nD. up and down",
+                "gt-answer": "C. clockwise",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction is the galaxy rotating?\nA. backward\nB. counter clockwise\nC. clockwise\nD. forward",
+                "gt-answer": "C. clockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "How is the galaxy spinning?\nA. backward\nB. counter clockwise\nC. clockwise\nD. forward",
+                "gt-answer": "C. clockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1099984801": {
+        "direction": [
+            {
+                "question": "What is the movement of the clouds?\nA. moving away from the camera\nB. staying still\nC. moving towards the camera",
+                "gt-answer": "C. moving towards the camera",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In what direction are the clouds heading?\nA. towards the camera\nB. upward\nC. downward\nD. away from the camera",
+                "gt-answer": "A. towards the camera",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the movement direction of the clouds?\nA. forward\nB. in a circular motion\nC. side to side\nD. backward",
+                "gt-answer": "D. backward",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1058985719": {
+        "direction": [
+            {
+                "question": "What is the direction in which the airplane is flying?\nA. bottom to top\nB. right to left\nC. top to bottom\nD. left to right",
+                "gt-answer": "A. bottom to top",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which way is the airplane moving on the screen?\nA. anticlockwise\nB. upwards\nC. clockwise\nD. downwards",
+                "gt-answer": "B. upwards",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the trajectory of the airplane?\nA. vertically upwards\nB. vertically downwards\nC. horizontally rightwards\nD. horizontally leftwards",
+                "gt-answer": "A. vertically upwards",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1055413730": {
+        "direction": [
+            {
+                "question": "In which direction is the planet Earth spinning?\nA. Rightwards\nB. Downwards\nC. Leftwards\nD. Upwards",
+                "gt-answer": "A. Rightwards",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Considering the camera's perspective, what is the rotational movement of the planet Earth?\nA. spinning to the left\nB. rotating upward\nC. spinning to the right",
+                "gt-answer": "C. spinning to the right",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the apparent motion of the Earth based on the camera's viewpoint?\nA. away from the camera\nB. towards the camera\nC. spinning to the right\nD. spinning to the left",
+                "gt-answer": "C. spinning to the right",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1081684532": {
+        "direction": [
+            {
+                "question": "What is the direction of the asteroids in the video?\nA. flying away from the camera\nB. flying to the left\nC. flying towards the camera\nD. flying to the right",
+                "gt-answer": "C. flying towards the camera",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Which direction are the asteroids moving?\nA. downwards\nB. towards the camera\nC. upwards\nD. away from the camera",
+                "gt-answer": "B. towards the camera",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Which way are the asteroids going?\nA. towards the camera\nB. parallel to the camera\nC. away from the camera",
+                "gt-answer": "A. towards the camera",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1057163434": {
+        "direction": [
+            {
+                "question": "What is the chef doing with the bread?\nA. removing it from the top of the burger\nB. putting it on top of the burger\nC. putting it inside the burger\nD. throwing it away",
+                "gt-answer": "B. putting it on top of the burger",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Which direction is the chef moving the bread?\nA. throwing it away\nB. removing it from the burger\nC. putting it on top of the burger\nD. putting it inside the burger",
+                "gt-answer": "C. putting it on top of the burger",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Which action is the chef performing with the bread?\nA. putting it on top of the burger\nB. picking it up from the burger\nC. inserting it inside the burger",
+                "gt-answer": "A. putting it on top of the burger",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1100319395": {
+        "direction": [
+            {
+                "question": "What direction is the circular pattern moving?\nA. clockwise\nB. towards the camera\nC. counter-clockwise\nD. away from the camera",
+                "gt-answer": "A. clockwise",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which way is the circular pattern moving?\nA. spinning clockwise\nB. spinning counter-clockwise\nC. vibrating back and forth",
+                "gt-answer": "A. spinning clockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction is the circular pattern spinning?\nA. towards the screen\nB. anticlockwise\nC. clockwise\nD. away from the screen",
+                "gt-answer": "C. clockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "3396473605": {
+        "direction": [
+            {
+                "question": "In which direction do the five stars appear?\nA. from right to left\nB. from top to bottom\nC. from left to right\nD. from bottom to top",
+                "gt-answer": "C. from left to right",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which star appears first?\nA. the star in the center\nB. the star in the right\nC. the star in the left\nD. all stars appear at the same time",
+                "gt-answer": "C. the star in the left",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the direction that the stars appear?\nA. from right to left\nB. from left to right\nC. upwards\nD. downwards",
+                "gt-answer": "B. from left to right",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1086820415": {
+        "direction": [
+            {
+                "question": "What is the direction of motion of the large wave?\nA. moving vertically towards the top of the screen\nB. moving horizontally towards the right side of the screen\nC. moving vertically towards the bottom of the screen\nD. moving horizontally towards the left side of the screen",
+                "gt-answer": "C. moving vertically towards the bottom of the screen",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which direction does the large wave move in the video?\nA. vertically towards the top of the screen\nB. diagonally towards the bottom-right corner\nC. vertically towards the bottom of the screen\nD. diagonally towards the top-left corner",
+                "gt-answer": "C. vertically towards the bottom of the screen",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "How does the large wave travel across the screen?\nA. moving vertically towards the bottom\nB. contracting towards the center\nC. moving vertically towards the top\nD. expanding from the center",
+                "gt-answer": "A. moving vertically towards the bottom",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1073831006": {
+        "direction": [
+            {
+                "question": "What is the direction of the zebras' movement?\nA. from right to left\nB. from left to right\nC. from top to bottom",
+                "gt-answer": "B. from left to right",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "In what direction are the zebras moving?\nA. from left to right relative to the camera\nB. away from the camera\nC. towards the camera\nD. from right to left relative to the camera",
+                "gt-answer": "A. from left to right relative to the camera",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which direction are the zebras heading?\nA. downward\nB. leftward\nC. rightward\nD. upward",
+                "gt-answer": "C. rightward",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1092278063": {
+        "direction": [
+            {
+                "question": "What is the direction of the two rows of duck toy?\nA. moving in opposite directions on a conveyor belt\nB. moving in the same direction on a conveyor belt\nC. not moving on a conveyor belt",
+                "gt-answer": "A. moving in opposite directions on a conveyor belt",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the movement pattern of the two rows of duck toy on a conveyor belt?\nA. circular motion\nB. straight motion\nC. zigzag motion",
+                "gt-answer": "B. straight motion",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Which direction are the two rows of duck toy moving relative to each other?\nA. perpendicular to each other\nB. in opposite directions\nC. in the same direction",
+                "gt-answer": "B. in opposite directions",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1024867412": {
+        "direction": [
+            {
+                "question": "What direction is the car driving?\nA. Taking a left turn\nB. Going straight\nC. Taking a right turn\nD. Going backward",
+                "gt-answer": "C. Taking a right turn",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction is the car moving?\nA. Left\nB. Right\nC. Backward\nD. Forward",
+                "gt-answer": "B. Right",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What maneuver is the car making?\nA. Making a left turn\nB. Parked on the street\nC. Driving backward\nD. Making a right turn",
+                "gt-answer": "D. Making a right turn",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1076877854": {
+        "direction": [
+            {
+                "question": "Which direction is the closest robotic arm moving from the camera's point of view?\nA. To the right side of the screen\nB. Towards the camera\nC. Away from the camera\nD. To the left side of the screen",
+                "gt-answer": "A. To the right side of the screen",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What motion can be observed about the closest robotic arm?\nA. Rotating\nB. Moving to the left side of the screen\nC. Oscillating\nD. Moving to the right side of the screen",
+                "gt-answer": "D. Moving to the right side of the screen",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What kind of movement does the closest robotic arm exhibit?\nA. Shifting to the left side of the screen\nB. Ascending and descending\nC. Shifting to the right side of the screen\nD. Swaying back and forth",
+                "gt-answer": "C. Shifting to the right side of the screen",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "3411806181": {
+        "direction": [
+            {
+                "question": "Which direction is the person moving the charging gun?\nA. Away from the car\nB. Parallel to the car\nC. Towards the car",
+                "gt-answer": "C. Towards the car",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What action is the person performing on the charging gun?\nA. holding it still\nB. unpluging it from the car\nC. plugging it into the car",
+                "gt-answer": "C. plugging it into the car",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Towards which side is the person moving the charging gun?\nA. himself\nB. the car\nC. none of both",
+                "gt-answer": "B. the car",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1056433484": {
+        "direction": [
+            {
+                "question": "What is the direction of the Earth's motion around the Sun?\nA. Counter-clockwise\nB. Clockwise\nC. Upwards",
+                "gt-answer": "A. Counter-clockwise",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "In which direction does the Earth travel in its orbit around the Sun?\nA. Clockwise\nB. Counter-clockwise\nC. Vertical",
+                "gt-answer": "B. Counter-clockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "The Earth's rotation in relation to the Sun follows a ____________ direction.\nA. Counter-clockwise\nB. Clockwise\nC. Horizontal",
+                "gt-answer": "A. Counter-clockwise",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1073914229": {
+        "direction": [
+            {
+                "question": "What direction are the trains moving?\nA. in the same direction\nB. towards each other\nC. away from each other",
+                "gt-answer": "B. towards each other",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In what manner are the trains traveling?\nA. stopped\nB. in the same direction\nC. towards each other\nD. away from each other",
+                "gt-answer": "C. towards each other",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the trajectory of the trains?\nA. perpendicular to each other\nB. moving away from each other\nC. proceeding in the same way\nD. moving towards each other",
+                "gt-answer": "D. moving towards each other",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1080591311": {
+        "direction": [
+            {
+                "question": "What direction is the jellyfish moving?\nA. moving towards the right\nB. floating upwards\nC. moving towards the left\nD. sinking downwards",
+                "gt-answer": "B. floating upwards",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the direction of motion for the jellyfish?\nA. floating to the right\nB. floating to the left\nC. floating downwards\nD. floating upwards",
+                "gt-answer": "D. floating upwards",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which way is the jellyfish moving?\nA. going down\nB. going away from the screen\nC. going towards the screen\nD. going up",
+                "gt-answer": "D. going up",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1100117263": {
+        "direction": [
+            {
+                "question": "What is the direction of the little lion's motion?\nA. downward\nB. upward\nC. towards the camera\nD. rightward",
+                "gt-answer": "A. downward",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the little lion doing?\nA. sitting nearby an adult lion\nB. sitting on the back of an adult lion\nC. falling from the back of an adult lion\nD. jumping onto the back of an adult lion",
+                "gt-answer": "C. falling from the back of an adult lion",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In what direction is the little lion going?\nA. falling down\nB. climbing up\nC. walking forward\nD. walking backward",
+                "gt-answer": "A. falling down",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1021488277": {
+        "direction": [
+            {
+                "question": "What is happening in the video? \nA. A person drops down the pineapple\nB. A person pushes forward the pineapple\nC. A person rotates the pineapple\nD. A person picks up the pineapple",
+                "gt-answer": "D. A person picks up the pineapple",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What action is taking place in the video?\nA. The pineapple is being dropped by a person.\nB. The pineapple is being rotated by a person.\nC. The pineapple is being pushed forward by a person.\nD. The pineapple is being picked up by a person.",
+                "gt-answer": "D. The pineapple is being picked up by a person.",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What can be observed in the video?\nA. The pineapple is rotated by a person.\nB. The pineapple is pushed in a forward direction.\nC. The pineapple is lifted by an individual.\nD. The pineapple is released and falls downward.",
+                "gt-answer": "C. The pineapple is lifted by an individual.",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1100397435": {
+        "direction": [
+            {
+                "question": "What direction is the robot vacuum cleaner moving in the video?\nA. to the right side of the screen\nB. to the left side of the screen\nC. towards the screen\nD. away from the screen",
+                "gt-answer": "A. to the right side of the screen",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the movement pattern of the robot vacuum cleaner?\nA. straight line towards the screen\nB. straight line to the right side of the screen\nC. straight line to the left side of the screen\nD. straight line away from the screen",
+                "gt-answer": "B. straight line to the right side of the screen",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Where is the robot vacuum cleaner heading?\nA. to the lower side of the screen\nB. to the upper side of the screen\nC. to the left side of the screen\nD. to the right side of the screen",
+                "gt-answer": "D. to the right side of the screen",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1108534143": {
+        "direction": [
+            {
+                "question": "What is the puppy doing in the video?\nA. staying in a wigwam\nB. walking into a wigwam\nC. walking out of a wigwam",
+                "gt-answer": "C. walking out of a wigwam",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction is the puppy moving?\nA. walking out of a wigwam\nB. entring a wigwam\nC. walking around a wigwam",
+                "gt-answer": "A. walking out of a wigwam",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What action is the puppy taking?\nA. entring a wigwam\nB. walking out of a wigwam\nC. walking around a wigwam",
+                "gt-answer": "B. walking out of a wigwam",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1047368344": {
+        "direction": [
+            {
+                "question": "What is the girl doing?\nA. jumping into water\nB. jumping around water\nC. swimming in the water\nD. jumping out of water",
+                "gt-answer": "A. jumping into water",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "How is the girl moving?\nA. towards the camera\nB. towards the water\nC. away from the water",
+                "gt-answer": "B. towards the water",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction is the girl moving?\nA. towards the water\nB. away from the water\nC. inside the water",
+                "gt-answer": "A. towards the water",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1089201973_reverse": {
+        "direction": [
+            {
+                "question": "What is the direction of the football in the video?\nA. moving from left to right\nB. moving from right to left\nC. stationary",
+                "gt-answer": "B. moving from right to left",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction is the football traveling?\nA. Rightwards\nB. Upwards\nC. Leftwards\nD. Downwards",
+                "gt-answer": "C. Leftwards",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "How would you describe the path of the football?\nA. from bottom to top\nB. from right to left\nC. from left to right\nD. from top to bottom",
+                "gt-answer": "B. from right to left",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1034736653_reverse": {
+        "direction": [
+            {
+                "question": "In which direction are the woman athletes running?\nA. from right to left\nB. in circles\nC. from left to right",
+                "gt-answer": "A. from right to left",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "From which side are the woman athletes entering the screen?\nA. right\nB. top\nC. left\nD. bottom",
+                "gt-answer": "A. right",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which way are the woman athletes heading?\nA. from left to right\nB. away from the camera\nC. from right to left\nD. towards the camera",
+                "gt-answer": "C. from right to left",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1084153195_reverse": {
+        "direction": [
+            {
+                "question": "What is the movement of the dolphins?\nA. swimming towards the shore\nB. hovering in one place\nC. swimming away from the shore",
+                "gt-answer": "C. swimming away from the shore",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction are the dolphins swimming?\nA. parallel to the shore\nB. towards the shore\nC. away from the shore",
+                "gt-answer": "C. away from the shore",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "If you observe the dolphins, what direction would you notice them heading?\nA. towards the shore\nB. parallel to the shore\nC. away from the shore",
+                "gt-answer": "C. away from the shore",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1081092839_reverse": {
+        "direction": [
+            {
+                "question": "What is the direction of the sun?\nA. descending\nB. ascending\nC. moving sideways",
+                "gt-answer": "B. ascending",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the movement pattern of the sun?\nA. falling\nB. rising\nC. remaining still",
+                "gt-answer": "B. rising",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the movement direction of the sun?\nA. descending\nB. ascending\nC. rotating",
+                "gt-answer": "B. ascending",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In what direction does the sun travel during sunset?\nA. downwards\nB. upwards\nC. horizontally",
+                "gt-answer": "B. upwards",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1059462749_reverse": {
+        "direction": [
+            {
+                "question": "In which direction is the person moving?\nA. rightwards\nB. downwards\nC. upwards\nD. leftwards",
+                "gt-answer": "C. upwards",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What word describes the movement of the person?\nA. standing\nB. descending\nC. climbing up\nD. jumping",
+                "gt-answer": "C. climbing up",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "From a higher point to a lower point, the person is:\nA. rotating\nB. rising\nC. staying still\nD. descending",
+                "gt-answer": "B. rising",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1088279109_reverse": {
+        "direction": [
+            {
+                "question": "What is the elevator doing?\nA. rising\nB. going down\nC. staying still",
+                "gt-answer": "B. going down",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction is the elevator moving?\nA. up\nB. down\nC. not moving",
+                "gt-answer": "B. down",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the direction of the elevator's movement?\nA. descending\nB. ascending\nC. stationary",
+                "gt-answer": "A. descending",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which way is the elevator going?\nA. up\nB. down\nC. stopped",
+                "gt-answer": "B. down",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1075484900_reverse": {
+        "direction": [
+            {
+                "question": "Which way is the child facing in relation to the man?\nA. Forward\nB. Turning towards the man\nC. Turning away from the man\nD. Backward",
+                "gt-answer": "B. Turning towards the man",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "In what direction is the child moving in relation to the man?\nA. Backward\nB. Forward\nC. Turning away from the man\nD. Turning towards the man",
+                "gt-answer": "D. Turning towards the man",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the orientation of the child with respect to the man?\nA. Downwards\nB. Upwards\nC. Turning away from the man\nD. Turning towards the man",
+                "gt-answer": "D. Turning towards the man",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1090578917_reverse": {
+        "direction": [
+            {
+                "question": "What direction is the man leaping?\nA. to his left\nB. backward\nC. forward\nD. to his right",
+                "gt-answer": "A. to his left",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which way is the man moving?\nA. left\nB. forwards\nC. right\nD. up",
+                "gt-answer": "A. left",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the direction of the man's movement?\nA. counterclockwise\nB. horizontal\nC. vertically\nD. clockwise",
+                "gt-answer": "B. horizontal",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1075338140_reverse": {
+        "direction": [
+            {
+                "question": "What is the direction of the ball?\nA. forward and backward\nB. spinning in place\nC. rolling from left to right\nD. rolling from right to left",
+                "gt-answer": "D. rolling from right to left",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which way is the ball moving?\nA. counterclockwise\nB. rolling from left to right\nC. clockwise\nD. rolling from right to left",
+                "gt-answer": "D. rolling from right to left",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction does the ball travel?\nA. straight ahead\nB. rolling from left to right\nC. rolling from right to left\nD. floating in mid-air",
+                "gt-answer": "C. rolling from right to left",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1067268403_reverse": {
+        "direction": [
+            {
+                "question": "What is the movement direction of the wind turbines?\nA. Stationary\nB. Rotating clockwise\nC. Rotating counterclockwise",
+                "gt-answer": "C. Rotating counterclockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which way are the wind turbines rotating?\nA. Randomly\nB. Clockwise\nC. Anti-clockwise",
+                "gt-answer": "C. Anti-clockwise",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "In which direction are the wind turbines turning?\nA. Anticlockwise\nB. Still\nC. Clockwise",
+                "gt-answer": "A. Anticlockwise",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the rotational direction of the wind turbines?\nA. Clockwise\nB. Anti-clockwise\nC. Unchanging",
+                "gt-answer": "B. Anti-clockwise",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1096007487_reverse": {
+        "direction": [
+            {
+                "question": "From the camera's point of view, in which direction is the 3d cloud moving?\nA. upward\nB. downward\nC. leftward\nD. rightward",
+                "gt-answer": "D. rightward",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "How is the 3d cloud moving from the camera's point of view?\nA. contracting\nB. spinning leftward\nC. spinning rightward\nD. expanding",
+                "gt-answer": "C. spinning rightward",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the movement pattern of the 3d cloud as seen from the camera's point of view?\nA. from right to left\nB. rotating clockwise\nC. rotating counter-clockwise\nD. from left to right",
+                "gt-answer": "D. from left to right",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1095939659_reverse": {
+        "direction": [
+            {
+                "question": "In which direction is the light growing?\nA. Downwards\nB. Clockwise\nC. Counterclockwise\nD. Upwards",
+                "gt-answer": "C. Counterclockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the direction of the light's movement?\nA. Clockwise\nB. Anticlockwise\nC. Straight forward\nD. Downwards",
+                "gt-answer": "B. Anticlockwise",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "How is the light changing direction?\nA. Spinning vertically\nB. Rotating clockwise\nC. Shifting diagonally\nD. Disappearing counterclockwise",
+                "gt-answer": "D. Disappearing counterclockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1098785169_reverse": {
+        "direction": [
+            {
+                "question": "What is the direction of the galaxy's spin?\nA. counterclockwise\nB. left to right\nC. clockwise\nD. up and down",
+                "gt-answer": "A. counterclockwise",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "In which direction is the galaxy rotating?\nA. backward\nB. counter clockwise\nC. clockwise\nD. forward",
+                "gt-answer": "B. counter clockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "How is the galaxy spinning?\nA. backward\nB. counter clockwise\nC. clockwise\nD. forward",
+                "gt-answer": "B. counter clockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1099984801_reverse": {
+        "direction": [
+            {
+                "question": "What is the movement of the clouds?\nA. moving away from the camera\nB. staying still\nC. moving towards the camera",
+                "gt-answer": "A. moving away from the camera",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In what direction are the clouds heading?\nA. towards the camera\nB. upward\nC. downward\nD. away from the camera",
+                "gt-answer": "D. away from the camera",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the movement direction of the clouds?\nA. forward\nB. in a circular motion\nC. side to side\nD. backward",
+                "gt-answer": "A. forward",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1058985719_reverse": {
+        "direction": [
+            {
+                "question": "What is the direction in which the airplane is flying?\nA. bottom to top\nB. right to left\nC. top to bottom\nD. left to right",
+                "gt-answer": "C. top to bottom",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which way is the airplane moving on the screen?\nA. anticlockwise\nB. upwards\nC. clockwise\nD. downwards",
+                "gt-answer": "D. downwards",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the trajectory of the airplane?\nA. vertically upwards\nB. vertically downwards\nC. horizontally rightwards\nD. horizontally leftwards",
+                "gt-answer": "B. vertically downwards",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1055413730_reverse": {
+        "direction": [
+            {
+                "question": "In which direction is the planet Earth spinning?\nA. Rightwards\nB. Downwards\nC. Leftwards\nD. Upwards",
+                "gt-answer": "C. Leftwards",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Considering the camera's perspective, what is the rotational movement of the planet Earth?\nA. spinning to the left\nB. rotating upward\nC. spinning to the right",
+                "gt-answer": "A. spinning to the left",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the apparent motion of the Earth based on the camera's viewpoint?\nA. away from the camera\nB. towards the camera\nC. spinning to the right\nD. spinning to the left",
+                "gt-answer": "D. spinning to the left",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1081684532_reverse": {
+        "direction": [
+            {
+                "question": "What is the direction of the asteroids in the video?\nA. flying away from the camera\nB. flying to the left\nC. flying towards the camera\nD. flying to the right",
+                "gt-answer": "A. flying away from the camera",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which direction are the asteroids moving?\nA. downwards\nB. towards the camera\nC. upwards\nD. away from the camera",
+                "gt-answer": "D. away from the camera",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Which way are the asteroids going?\nA. towards the camera\nB. parallel to the camera\nC. away from the camera",
+                "gt-answer": "C. away from the camera",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1057163434_reverse": {
+        "direction": [
+            {
+                "question": "What is the chef doing with the bread?\nA. removing it from the top of the burger\nB. putting it on top of the burger\nC. putting it inside the burger\nD. throwing it away",
+                "gt-answer": "A. removing it from the top of the burger",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which direction is the chef moving the bread?\nA. throwing it away\nB. removing it from the burger\nC. putting it on top of the burger\nD. putting it inside the burger",
+                "gt-answer": "B. removing it from the burger",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which action is the chef performing with the bread?\nA. putting it on top of the burger\nB. picking it up from the burger\nC. inserting it inside the burger",
+                "gt-answer": "B. picking it up from the burger",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1100319395_reverse": {
+        "direction": [
+            {
+                "question": "What direction is the circular pattern moving?\nA. clockwise\nB. moving towards the camera\nC. counter-clockwise\nD. moving away from the camera",
+                "gt-answer": "C. counter-clockwise",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Which way is the circular pattern moving?\nA. spinning clockwise\nB. spinning counter-clockwise\nC. vibrating back and forth",
+                "gt-answer": "B. spinning counter-clockwise",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "In which direction is the circular pattern spinning?\nA. towards the screen\nB. anticlockwise\nC. clockwise\n D. away from the screen",
+                "gt-answer": "B. anticlockwise",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "3396473605_reverse": {
+        "direction": [
+            {
+                "question": "In which direction do the five stars disappear?\nA. from right to left\nB. from top to bottom\nC. from left to right\nD. from bottom to top",
+                "gt-answer": "A. from right to left",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "Which star disappears first?\nA. the star in the center\nB. the star in the right\nC. the star in the left\nD. all stars appear at the same time",
+                "gt-answer": "B. the star in the right",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the direction that the stars disappear?\nA. from right to left\nB. from left to right\nC. upwards\nD. downwards",
+                "gt-answer": "A. from right to left",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1086820415_reverse": {
+        "direction": [
+            {
+                "question": "What is the direction of motion of the large wave?\nA. moving vertically towards the top of the screen\nB. moving horizontally towards the right side of the screen\nC. moving vertically towards the bottom of the screen\nD. moving horizontally towards the left side of the screen",
+                "gt-answer": "A. moving vertically towards the top of the screen",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which direction does the large wave move in the video?\nA. vertically towards the top of the screen\nB. diagonally towards the bottom-right corner\nC. vertically towards the bottom of the screen\nD. diagonally towards the top-left corner",
+                "gt-answer": "A. vertically towards the top of the screen",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "How does the large wave travel across the screen?\nA. moving vertically towards the bottom\nB. contracting towards the center\nC. moving vertically towards the top\nD. expanding from the center",
+                "gt-answer": "C. moving vertically towards the top",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1073831006_reverse": {
+        "direction": [
+            {
+                "question": "What is the direction of the zebras' movement?\nA. from right to left\nB. from left to right\nC. from top to bottom",
+                "gt-answer": "A. from right to left",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In what direction are the zebras moving?\nA. from left to right relative to the camera\nB. away from the camera\nC. towards the camera\nD. from right to left relative to the camera",
+                "gt-answer": "D. from right to left relative to the camera",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which direction are the zebras heading?\nA. downward\nB. leftward\nC. rightward\nD. upward",
+                "gt-answer": "B. leftward",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1024867412_reverse": {
+        "direction": [
+            {
+                "question": "What direction is the car driving?\nA. Taking a left turn\nB. Going straight\nC. Taking a right turn\nD. Going backward",
+                "gt-answer": "A. Taking a left turn",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction is the car moving?\nA. Left\nB. Right\nC. Backward\nD. Forward",
+                "gt-answer": "A. Left",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What maneuver is the car making?\nA. Making a left turn\nB. Parked on the street\nC. Driving backward\nD. Making a right turn",
+                "gt-answer": "A. Making a left turn",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1076877854_reverse": {
+        "direction": [
+            {
+                "question": "Which direction is the closest robotic arm moving from the camera's point of view?\nA. To the right side of the screen\nB. Towards the camera\nC. Away from the camera\nD. To the left side of the screen",
+                "gt-answer": "D. To the left side of the screen",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What motion can be observed about the closest robotic arm?\nA. Rotating\nB. Moving to the left side of the screen\nC. Oscillating\nD. Moving to the right side of the screen",
+                "gt-answer": "B. Moving to the left side of the screen",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What kind of movement does the closest robotic arm exhibit?\nA. Shifting to the left side of the screen\nB. Ascending and descending\nC. Shifting to the right side of the screen\nD. Swaying back and forth",
+                "gt-answer": "A. Shifting to the left side of the screen",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "3411806181_reverse": {
+        "direction": [
+            {
+                "question": "Which direction is the person moving the charging gun?\nA. Away from the car\nB. Parallel to the car\nC. Towards the car",
+                "gt-answer": "A. Away from the car",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What action is the person performing on the charging gun?\nA. holding it still\nB. unpluging it from the car\nC. plugging it into the car",
+                "gt-answer": "B. unpluging it from the car",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Towards which side is the person moving the charging gun?\nA. himself\nB. the car\nC. none of both",
+                "gt-answer": "A. himself",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1073914229_reverse": {
+        "direction": [
+            {
+                "question": "What direction are the trains moving?\nA. in the same direction\nB. towards each other\nC. away from each other",
+                "gt-answer": "C. away from each other",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In what manner are the trains traveling?\nA. stopped\nB. in the same direction\nC. towards each other\nD. away from each other",
+                "gt-answer": "D. away from each other",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the trajectory of the trains?\nA. perpendicular to each other\nB. moving away from each other\nC. proceeding in the same way\nD. moving towards each other",
+                "gt-answer": "B. moving away from each other",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1080591311_reverse": {
+        "direction": [
+            {
+                "question": "What direction is the jellyfish moving?\nA. moving towards the right\nB. floating upwards\nC. moving towards the left\nD. sinking downwards",
+                "gt-answer": "D. sinking downwards",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the direction of motion for the jellyfish?\nA. floating to the right\nB. floating to the left\nC. floating downwards\nD. floating upwards",
+                "gt-answer": "C. floating downwards",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Which way is the jellyfish moving?\nA. going down\nB. going away from the screen\nC. going towards the screen\nD. going up",
+                "gt-answer": "A. going down",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1100117263_reverse": {
+        "direction": [
+            {
+                "question": "What is the direction of the little lion's motion?\nA. downward\nB. upward\nC. towards the camera\nD. rightward",
+                "gt-answer": "B. upward",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the little lion doing?\nA. sitting nearby an adult lion\nB. sitting on the back of an adult lion\nC. falling from the back of an adult lion\nD. jumping onto the back of an adult lion",
+                "gt-answer": "D. jumping onto the back of an adult lion",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In what direction is the little lion going?\nA. falling down\nB. climbing up\nC. walking forward\nD. walking backward",
+                "gt-answer": "B. climbing up",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1021488277_reverse": {
+        "direction": [
+            {
+                "question": "What is happening in the video? \nA. A person drops down the pineapple\nB. A person pushes forward the pineapple\nC. A person rotates the pineapple\nD. A person picks up the pineapple",
+                "gt-answer": "A. A person drops down the pineapple",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What action is taking place in the video?\nA. The pineapple is being dropped by a person.\nB. The pineapple is being rotated by a person.\nC. The pineapple is being pushed forward by a person.\nD. The pineapple is being picked up by a person.",
+                "gt-answer": "A. The pineapple is being dropped by a person.",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What can be observed in the video?\nA. The pineapple is rotated by a person.\nB. The pineapple is pushed in a forward direction.\nC. The pineapple is lifted by an individual.\nD. The pineapple is put down.",
+                "gt-answer": "D. The pineapple is put down.",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1100397435_reverse": {
+        "direction": [
+            {
+                "question": "What direction is the robot vacuum cleaner moving in the video?\nA. to the right side of the screen\nB. to the left side of the screen\nC. towards the screen\nD. away from the screen",
+                "gt-answer": "B. to the left side of the screen",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What is the movement pattern of the robot vacuum cleaner?\nA. straight line towards the screen\nB. straight line to the right side of the screen\nC. straight line to the left side of the screen\nD. straight line away from the screen",
+                "gt-answer": "C. straight line to the left side of the screen",
+                "video-llm-prediction": "D",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Where is the robot vacuum cleaner heading?\nA. to the lower side of the screen\nB. to the upper side of the screen\nC. to the left side of the screen\nD. to the right side of the screen",
+                "gt-answer": "C. to the left side of the screen",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1108534143_reverse": {
+        "direction": [
+            {
+                "question": "What is the puppy doing in the video?\nA. staying in a wigwam\nB. walking into a wigwam\nC. walking out of a wigwam",
+                "gt-answer": "B. walking into a wigwam",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction is the puppy moving?\nA. walking out of a wigwam\nB. entring a wigwam\nC. walking around a wigwam",
+                "gt-answer": "B. entring a wigwam",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "What action is the puppy taking?\nA. entring a wigwam\nB. walking out of a wigwam\nC. walking around a wigwam",
+                "gt-answer": "A. entring a wigwam",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1047368344_reverse": {
+        "direction": [
+            {
+                "question": "What is the girl doing?\nA. jumping into water\nB. jumping around water\nC. swimming in the water\nD. jumping out of water",
+                "gt-answer": "D. jumping out of water",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "How is the girl moving?\nA. towards the camera\nB. towards the water\nC. away from the water",
+                "gt-answer": "C. away from the water",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "In which direction is the girl moving?\nA. towards the water\nB. away from the water\nC. inside the water",
+                "gt-answer": "B. away from the water",
+                "video-llm-prediction": "B",
+                "match_success": true,
+                "rating": 1
+            }
+        ]
+    },
+    "1086286649": {
+        "direction": [
+            {
+                "question": "Which way are the armored vehicles moving from the camera's point of view?\nA. Stationary\nB. Right to left\nC. Left to right",
+                "gt-answer": "B. Right to left",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "Towards which direction are the armored vehicles approaching?\nA. The right side of screen\nB. The upper side of screen\nC. The lower side of screen\nD. The left side of screen",
+                "gt-answer": "D. The left side of screen",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            },
+            {
+                "question": "How are the armored vehicles proceeding?\nA. From bottom to top\nB. From top to bottom\nC. From left to right\nD. From right to left",
+                "gt-answer": "D. From right to left",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    },
+    "1104663381": {
+        "direction": [
+            {
+                "question": "What is the direction in which the pizza dough is rotating?\nA. counter-clockwise\nB. clockwise\nC. it is not rotating",
+                "gt-answer": "A. counter-clockwise",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "In what direction is the pizza dough moving?\nA. flipping up and down\nB. rotating clockwise\nC. rotating counter-clockwise\nD. flipping left and right",
+                "gt-answer": "C. rotating counter-clockwise",
+                "video-llm-prediction": "C",
+                "match_success": true,
+                "rating": 1
+            },
+            {
+                "question": "What is the rotational direction of the pizza dough?\nA. clockwise\nB. stationary\nC. anti-clockwise",
+                "gt-answer": "C. anti-clockwise",
+                "video-llm-prediction": "A",
+                "match_success": true,
+                "rating": 0
+            }
+        ]
+    }
+}

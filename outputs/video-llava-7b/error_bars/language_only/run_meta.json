@@ -1,0 +1,16 @@
+{
+  "model": "LanguageBind/Video-LLaVA-7B-hf",
+  "model_tag": "video-llava-7b",
+  "benchmark": "TempCompass",
+  "subset": "direction-object",
+  "task": "multi-choice",
+  "num_questions": 243,
+  "num_correct": 86,
+  "accuracy": 0.35390946502057613,
+  "accuracy_percent": 35.4,
+  "quantization": "4bit",
+  "max_new_tokens": 16,
+  "do_sample": false,
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "experiment_kind": "language_only"
+}
