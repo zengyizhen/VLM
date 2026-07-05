@@ -1,0 +1,20 @@
+{
+  "model": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "model_tag": "qwen2.5-vl-7b",
+  "benchmark": "TempCompass",
+  "subset": "direction-object",
+  "task": "multi-choice",
+  "num_questions": 243,
+  "num_correct": 92,
+  "accuracy": 0.3786008230452675,
+  "accuracy_percent": 37.9,
+  "quantization": "4bit",
+  "max_new_tokens": 16,
+  "do_sample": false,
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "experiment_kind": "video",
+  "num_frames": 4,
+  "frame_order_mode": "shuffle",
+  "shuffle_seed": 42,
+  "frame_sampling": "uniform"
+}
