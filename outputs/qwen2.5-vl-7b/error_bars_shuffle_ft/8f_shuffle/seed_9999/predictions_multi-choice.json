@@ -1,0 +1,1533 @@
+{
+  "1034419625": {
+    "direction": [
+      {
+        "question": "What is the direction of the man?\nA. moving towards the camera\nB. moving from left to right\nC. moving away from the camera",
+        "answer": "B. moving from left to right",
+        "prediction": "B"
+      },
+      {
+        "question": "From the camera's point of view, in which direction is the man moving?\nA. away from the camera\nB. towards the camera\nC. from left to right",
+        "answer": "C. from left to right",
+        "prediction": "B"
+      },
+      {
+        "question": "In relation to the camera's position, which way is the man headed?\nA. from left to right\nB. towards the camera\nC. from right to left",
+        "answer": "A. from left to right",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1034419625_reverse": {
+    "direction": [
+      {
+        "question": "What is the direction of the man?\nA. moving towards the camera\nB. moving from right to left\nC. moving away from the camera\nD. moving from left to right",
+        "answer": "B. moving from right to left",
+        "prediction": "B"
+      },
+      {
+        "question": "From the camera's point of view, in which direction is the man moving?\nA. away from the camera\nB. towards the camera\nC. from right to left\nD. from left to right",
+        "answer": "C. from right to left",
+        "prediction": "B"
+      },
+      {
+        "question": "In relation to the camera's position, which way is the man headed?\nA. from right to left\nB. towards the camera\nC. from left to right\nD. away from the camera",
+        "answer": "A. from right to left",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1094590221": {
+    "direction": [
+      {
+        "question": "What direction is the basketball moving?\nA. straight ahead\nB. left to right\nC. right to left",
+        "answer": "C. right to left",
+        "prediction": "A"
+      },
+      {
+        "question": "How does the basketball move in the horizontal direction?\nA. left to right\nB. right to left\nC. standing still",
+        "answer": "B. right to left",
+        "prediction": "B"
+      },
+      {
+        "question": "From which side of the screen does the basketball ends moving?\nA. right top\nB. right bottom\nC. left bottom\nD. left top",
+        "answer": "C. left bottom",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1094590221_reverse": {
+    "direction": [
+      {
+        "question": "What direction is the basketball moving?\nA. straight ahead\nB. left to right\nC. right to left",
+        "answer": "B. left to right",
+        "prediction": "C"
+      },
+      {
+        "question": "How does the basketball move in the horizontal direction?\nA. left to right\nB. right to left\nC. standing still",
+        "answer": "A. left to right",
+        "prediction": "B"
+      },
+      {
+        "question": "From which side of the screen does the basketball start moving?\nA. right top\nB. right bottom\nC. left bottom\nD. left top",
+        "answer": "C. left bottom",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1111657885": {
+    "direction": [
+      {
+        "question": "Which direction are the people skating?\nA. towards the camera\nB. parallel to the screen\nC. away from the camera",
+        "answer": "A. towards the camera",
+        "prediction": "A"
+      },
+      {
+        "question": "In what direction are the people moving?\nA. standing still\nB. towards the camera\nC. from right to left in relation to the camera\nD. away from the camera",
+        "answer": "B. towards the camera",
+        "prediction": "C"
+      },
+      {
+        "question": "How would you describe the movement of the people?\nA. gliding away from the camera\nB. gliding towards the camera\nC. gliding parallel the camera",
+        "answer": "B. gliding towards the camera",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1111657885_reverse": {
+    "direction": [
+      {
+        "question": "Which direction are the people skating?\nA. towards the camera\nB. parallel to the screen\nC. away from the camera",
+        "answer": "C. away from the camera",
+        "prediction": "C"
+      },
+      {
+        "question": "In what direction are the people moving?\nA. standing still\nB. towards the camera\nC. from right to left in relation to the camera\nD. away from the camera",
+        "answer": "D. away from the camera",
+        "prediction": "D"
+      },
+      {
+        "question": "How would you describe the movement of the people?\nA. gliding away from the camera\nB. gliding towards the camera\nC. gliding parallel the camera",
+        "answer": "A. gliding away from the camera",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1059718130": {
+    "direction": [
+      {
+        "question": "What direction is the sun moving in?\nA. falling\nB. rising\nC. staying in one place",
+        "answer": "B. rising",
+        "prediction": "A"
+      },
+      {
+        "question": "What is the direction of the sun?\nA. stationary\nB. falling\nC. rising",
+        "answer": "C. rising",
+        "prediction": "B"
+      },
+      {
+        "question": "What is the primary movement of the sun?\nA. descending\nB. standing still\nC. rising",
+        "answer": "C. rising",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1059718130_reverse": {
+    "direction": [
+      {
+        "question": "What direction is the sun moving in?\nA. setting\nB. rising\nC. staying in one place",
+        "answer": "A. setting",
+        "prediction": "B"
+      },
+      {
+        "question": "What is the direction of the sun?\nA. stationary\nB. falling\nC. rising",
+        "answer": "B. falling",
+        "prediction": "C"
+      },
+      {
+        "question": "What is the primary movement of the sun?\nA. descending\nB. standing still\nC. rising",
+        "answer": "A. descending",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1083845854": {
+    "direction": [
+      {
+        "question": "What is the direction in which the clock hands are moving?\nA. counterclockwise\nB. clockwise\nC. stationary",
+        "answer": "B. clockwise",
+        "prediction": "B"
+      },
+      {
+        "question": "How are the clock hands changing their orientation?\nA. standing still\nB. moving clockwise\nC. moving anti-clockwise",
+        "answer": "B. moving clockwise",
+        "prediction": "B"
+      },
+      {
+        "question": "In what direction are the clock hands moving?\nA. clockwise\nB. alternating between clockwise and counterclockwise\nC. counterclockwise",
+        "answer": "A. clockwise",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1083845854_reverse": {
+    "direction": [
+      {
+        "question": "What is the direction in which the clock hands are moving?\nA. counterclockwise\nB. clockwise\nC. stationary",
+        "answer": "A. counterclockwise",
+        "prediction": "B"
+      },
+      {
+        "question": "How are the clock hands changing their orientation?\nA. standing still\nB. moving clockwise\nC. moving anti-clockwise",
+        "answer": "C. moving anti-clockwise",
+        "prediction": "C"
+      },
+      {
+        "question": "In what direction are the clock hands moving?\nA. clockwise\nB. alternating between clockwise and counterclockwise\nC. counterclockwise",
+        "answer": "C. counterclockwise",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1089201973": {
+    "direction": [
+      {
+        "question": "What is the direction of the football in the video?\nA. moving from left to right\nB. moving from right to left\nC. stationary",
+        "answer": "A. moving from left to right",
+        "prediction": "A"
+      },
+      {
+        "question": "In which direction is the football traveling?\nA. Rightwards\nB. Upwards\nC. Leftwards\nD. Downwards",
+        "answer": "A. Rightwards",
+        "prediction": "A"
+      },
+      {
+        "question": "How would you describe the path of the football?\nA. from bottom to top\nB. from right to left\nC. from left to right\nD. from top to bottom",
+        "answer": "C. from left to right",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1034736653": {
+    "direction": [
+      {
+        "question": "In which direction are the woman athletes running?\nA. from right to left\nB. in circles\nC. from left to right",
+        "answer": "C. from left to right",
+        "prediction": "C"
+      },
+      {
+        "question": "From which side are the woman athletes entering the screen?\nA. right\nB. top\nC. left\nD. bottom",
+        "answer": "C. left",
+        "prediction": "C"
+      },
+      {
+        "question": "Which way are the woman athletes heading?\nA. from left to right\nB. away from the camera\nC. from right to left\nD. towards the camera",
+        "answer": "A. from left to right",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1084153195": {
+    "direction": [
+      {
+        "question": "What is the movement of the dolphins?\nA. swimming towards the shore\nB. hovering in one place\nC. swimming away from the shore",
+        "answer": "A. swimming towards the shore",
+        "prediction": "C"
+      },
+      {
+        "question": "In which direction are the dolphins swimming?\nA. parallel to the shore\nB. towards the shore\nC. away from the shore",
+        "answer": "B. towards the shore",
+        "prediction": "C"
+      },
+      {
+        "question": "If you observe the dolphins, what direction would you notice them heading?\nA. towards the shore\nB. parallel to the shore\nC. away from the shore",
+        "answer": "A. towards the shore",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1081092839": {
+    "direction": [
+      {
+        "question": "What is the direction of the sun?\nA. descending\nB. ascending\nC. moving sideways",
+        "answer": "A. descending",
+        "prediction": "A"
+      },
+      {
+        "question": "What is the movement pattern of the sun?\nA. falling\nB. rising\nC. remaining still",
+        "answer": "A. falling",
+        "prediction": "A"
+      },
+      {
+        "question": "What is the movement direction of the sun?\nA. descending\nB. ascending\nC. rotating",
+        "answer": "A. descending",
+        "prediction": "A"
+      },
+      {
+        "question": "In what direction does the sun travel during sunset?\nA. downwards\nB. upwards\nC. horizontally",
+        "answer": "A. downwards",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1059462749": {
+    "direction": [
+      {
+        "question": "In which direction is the person moving?\nA. rightwards\nB. downwards\nC. upwards\nD. leftwards",
+        "answer": "B. downwards",
+        "prediction": "C"
+      },
+      {
+        "question": "What word describes the movement of the person?\nA. standing\nB. descending\nC. climbing up\nD. jumping",
+        "answer": "B. descending",
+        "prediction": "C"
+      },
+      {
+        "question": "From a higher point to a lower point, the person is:\nA. rotating\nB. rising\nC. staying still\nD. descending",
+        "answer": "D. descending",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1088279109": {
+    "direction": [
+      {
+        "question": "What is the elevator doing?\nA. rising\nB. going down\nC. staying still",
+        "answer": "A. rising",
+        "prediction": "B"
+      },
+      {
+        "question": "In which direction is the elevator moving?\nA. up\nB. down\nC. not moving",
+        "answer": "A. up",
+        "prediction": "B"
+      },
+      {
+        "question": "What is the direction of the elevator's movement?\nA. descending\nB. ascending\nC. stationary",
+        "answer": "B. ascending",
+        "prediction": "A"
+      },
+      {
+        "question": "Which way is the elevator going?\nA. up\nB. down\nC. stopped",
+        "answer": "A. up",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1075484900": {
+    "direction": [
+      {
+        "question": "Which way is the child facing in relation to the man?\nA. Forward\nB. Turning towards the man\nC. Turning away from the man\nD. Backward",
+        "answer": "C. Turning away from the man",
+        "prediction": "C"
+      },
+      {
+        "question": "In what direction is the child moving in relation to the man?\nA. Backward\nB. Forward\nC. Turning away from the man\nD. Turning towards the man",
+        "answer": "C. Turning away from the man",
+        "prediction": "C"
+      },
+      {
+        "question": "What is the orientation of the child with respect to the man?\nA. Downwards\nB. Upwards\nC. Turning away from the man\nD. Turning towards the man",
+        "answer": "C. Turning away from the man",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1090578917": {
+    "direction": [
+      {
+        "question": "What direction is the man leaping?\nA. to his left\nB. backward\nC. forward\nD. to his right",
+        "answer": "D. to his right",
+        "prediction": "D"
+      },
+      {
+        "question": "Which way is the man moving?\nA. left\nB. forwards\nC. right\nD. up",
+        "answer": "C. right",
+        "prediction": "C"
+      },
+      {
+        "question": "What is the direction of the man's movement?\nA. counterclockwise\nB. horizontal\nC. vertically\nD. clockwise",
+        "answer": "B. horizontal",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1075338140": {
+    "direction": [
+      {
+        "question": "What is the direction of the ball?\nA. forward and backward\nB. spinning in place\nC. rolling from left to right\nD. rolling from right to left",
+        "answer": "C. rolling from left to right",
+        "prediction": "C"
+      },
+      {
+        "question": "Which way is the ball moving?\nA. counterclockwise\nB. rolling from left to right\nC. clockwise\nD. rolling from right to left",
+        "answer": "B. rolling from left to right",
+        "prediction": "C"
+      },
+      {
+        "question": "In which direction does the ball travel?\nA. straight ahead\nB. rolling from left to right\nC. rolling from right to left\nD. floating in mid-air",
+        "answer": "B. rolling from left to right",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1067268403": {
+    "direction": [
+      {
+        "question": "What is the movement direction of the wind turbines?\nA. Stationary\nB. Rotating clockwise\nC. Rotating counterclockwise",
+        "answer": "B. Rotating clockwise",
+        "prediction": "C"
+      },
+      {
+        "question": "Which way are the wind turbines rotating?\nA. Randomly\nB. Clockwise\nC. Anti-clockwise",
+        "answer": "B. Clockwise",
+        "prediction": "C"
+      },
+      {
+        "question": "In which direction are the wind turbines turning?\nA. Anticlockwise\nB. Still\nC. Clockwise",
+        "answer": "C. Clockwise",
+        "prediction": "C"
+      },
+      {
+        "question": "What is the rotational direction of the wind turbines?\nA. Clockwise\nB. Anti-clockwise\nC. Unchanging",
+        "answer": "A. Clockwise",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1096007487": {
+    "direction": [
+      {
+        "question": "From the camera's point of view, in which direction is the 3d cloud moving?\nA. upward\nB. downward\nC. leftward\nD. rightward",
+        "answer": "C. leftward",
+        "prediction": "B"
+      },
+      {
+        "question": "How is the 3d cloud moving from the camera's point of view?\nA. contracting\nB. spinning leftward\nC. spinning rightward\nD. expanding",
+        "answer": "B. spinning leftward",
+        "prediction": "A"
+      },
+      {
+        "question": "What is the movement pattern of the 3d cloud as seen from the camera's point of view?\nA. from right to left\nB. rotating clockwise\nC. rotating counter-clockwise\nD. from left to right",
+        "answer": "A. from right to left",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1095939659": {
+    "direction": [
+      {
+        "question": "In which direction is the light growing?\nA. Downwards\nB. Clockwise\nC. Counterclockwise\nD. Upwards",
+        "answer": "B. Clockwise",
+        "prediction": "C"
+      },
+      {
+        "question": "What is the direction of the light's movement?\nA. Clockwise\nB. Anticlockwise\nC. Straight forward\nD. Downwards",
+        "answer": "A. Clockwise",
+        "prediction": "B"
+      },
+      {
+        "question": "How is the light changing direction?\nA. Spinning vertically\nB. Rotating clockwise\nC. Shifting diagonally\nD. Growing counterclockwise",
+        "answer": "B. Rotating clockwise",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1059632327": {
+    "direction": [
+      {
+        "question": "What is the direction of the tennis ball?\nA. bouncing up and down\nB. spinning clockwise and anticlockwise\nC. rolling forward and backward\nD. bouncing left to right",
+        "answer": "A. bouncing up and down",
+        "prediction": "C"
+      },
+      {
+        "question": "Which direction does the tennis ball move in?\nA. moving in a circular path\nB. floating in mid-air\nC. moving in a zigzag pattern\nD. bouncing up and down",
+        "answer": "D. bouncing up and down",
+        "prediction": "D"
+      },
+      {
+        "question": "In which direction does the tennis ball travel?\nA. bouncing up and down\nB. shooting straight ahead\nC. staying stationary\nD. bouncing side to side",
+        "answer": "A. bouncing up and down",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1098785169": {
+    "direction": [
+      {
+        "question": "What is the direction of the galaxy's spin?\nA. counterclockwise\nB. left to right\nC. clockwise\nD. up and down",
+        "answer": "C. clockwise",
+        "prediction": "C"
+      },
+      {
+        "question": "In which direction is the galaxy rotating?\nA. backward\nB. counter clockwise\nC. clockwise\nD. forward",
+        "answer": "C. clockwise",
+        "prediction": "B"
+      },
+      {
+        "question": "How is the galaxy spinning?\nA. backward\nB. counter clockwise\nC. clockwise\nD. forward",
+        "answer": "C. clockwise",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1099984801": {
+    "direction": [
+      {
+        "question": "What is the movement of the clouds?\nA. moving away from the camera\nB. staying still\nC. moving towards the camera",
+        "answer": "C. moving towards the camera",
+        "prediction": "A"
+      },
+      {
+        "question": "In what direction are the clouds heading?\nA. towards the camera\nB. upward\nC. downward\nD. away from the camera",
+        "answer": "A. towards the camera",
+        "prediction": "D"
+      },
+      {
+        "question": "What is the movement direction of the clouds?\nA. forward\nB. in a circular motion\nC. side to side\nD. backward",
+        "answer": "D. backward",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1058985719": {
+    "direction": [
+      {
+        "question": "What is the direction in which the airplane is flying?\nA. bottom to top\nB. right to left\nC. top to bottom\nD. left to right",
+        "answer": "A. bottom to top",
+        "prediction": "C"
+      },
+      {
+        "question": "Which way is the airplane moving on the screen?\nA. anticlockwise\nB. upwards\nC. clockwise\nD. downwards",
+        "answer": "B. upwards",
+        "prediction": "B"
+      },
+      {
+        "question": "What is the trajectory of the airplane?\nA. vertically upwards\nB. vertically downwards\nC. horizontally rightwards\nD. horizontally leftwards",
+        "answer": "A. vertically upwards",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1055413730": {
+    "direction": [
+      {
+        "question": "In which direction is the planet Earth spinning?\nA. Rightwards\nB. Downwards\nC. Leftwards\nD. Upwards",
+        "answer": "A. Rightwards",
+        "prediction": "A"
+      },
+      {
+        "question": "Considering the camera's perspective, what is the rotational movement of the planet Earth?\nA. spinning to the left\nB. rotating upward\nC. spinning to the right",
+        "answer": "C. spinning to the right",
+        "prediction": "A"
+      },
+      {
+        "question": "What is the apparent motion of the Earth based on the camera's viewpoint?\nA. away from the camera\nB. towards the camera\nC. spinning to the right\nD. spinning to the left",
+        "answer": "C. spinning to the right",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1081684532": {
+    "direction": [
+      {
+        "question": "What is the direction of the asteroids in the video?\nA. flying away from the camera\nB. flying to the left\nC. flying towards the camera\nD. flying to the right",
+        "answer": "C. flying towards the camera",
+        "prediction": "C"
+      },
+      {
+        "question": "Which direction are the asteroids moving?\nA. downwards\nB. towards the camera\nC. upwards\nD. away from the camera",
+        "answer": "B. towards the camera",
+        "prediction": "C"
+      },
+      {
+        "question": "Which way are the asteroids going?\nA. towards the camera\nB. parallel to the camera\nC. away from the camera",
+        "answer": "A. towards the camera",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1057163434": {
+    "direction": [
+      {
+        "question": "What is the chef doing with the bread?\nA. removing it from the top of the burger\nB. putting it on top of the burger\nC. putting it inside the burger\nD. throwing it away",
+        "answer": "B. putting it on top of the burger",
+        "prediction": "A"
+      },
+      {
+        "question": "Which direction is the chef moving the bread?\nA. throwing it away\nB. removing it from the burger\nC. putting it on top of the burger\nD. putting it inside the burger",
+        "answer": "C. putting it on top of the burger",
+        "prediction": "B"
+      },
+      {
+        "question": "Which action is the chef performing with the bread?\nA. putting it on top of the burger\nB. picking it up from the burger\nC. inserting it inside the burger",
+        "answer": "A. putting it on top of the burger",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1100319395": {
+    "direction": [
+      {
+        "question": "What direction is the circular pattern moving?\nA. clockwise\nB. towards the camera\nC. counter-clockwise\nD. away from the camera",
+        "answer": "A. clockwise",
+        "prediction": "A"
+      },
+      {
+        "question": "Which way is the circular pattern moving?\nA. spinning clockwise\nB. spinning counter-clockwise\nC. vibrating back and forth",
+        "answer": "A. spinning clockwise",
+        "prediction": "B"
+      },
+      {
+        "question": "In which direction is the circular pattern spinning?\nA. towards the screen\nB. anticlockwise\nC. clockwise\nD. away from the screen",
+        "answer": "C. clockwise",
+        "prediction": "C"
+      }
+    ]
+  },
+  "3396473605": {
+    "direction": [
+      {
+        "question": "In which direction do the five stars appear?\nA. from right to left\nB. from top to bottom\nC. from left to right\nD. from bottom to top",
+        "answer": "C. from left to right",
+        "prediction": "C"
+      },
+      {
+        "question": "Which star appears first?\nA. the star in the center\nB. the star in the right\nC. the star in the left\nD. all stars appear at the same time",
+        "answer": "C. the star in the left",
+        "prediction": "C"
+      },
+      {
+        "question": "What is the direction that the stars appear?\nA. from right to left\nB. from left to right\nC. upwards\nD. downwards",
+        "answer": "B. from left to right",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1086820415": {
+    "direction": [
+      {
+        "question": "What is the direction of motion of the large wave?\nA. moving vertically towards the top of the screen\nB. moving horizontally towards the right side of the screen\nC. moving vertically towards the bottom of the screen\nD. moving horizontally towards the left side of the screen",
+        "answer": "C. moving vertically towards the bottom of the screen",
+        "prediction": "C"
+      },
+      {
+        "question": "Which direction does the large wave move in the video?\nA. vertically towards the top of the screen\nB. diagonally towards the bottom-right corner\nC. vertically towards the bottom of the screen\nD. diagonally towards the top-left corner",
+        "answer": "C. vertically towards the bottom of the screen",
+        "prediction": "C"
+      },
+      {
+        "question": "How does the large wave travel across the screen?\nA. moving vertically towards the bottom\nB. contracting towards the center\nC. moving vertically towards the top\nD. expanding from the center",
+        "answer": "A. moving vertically towards the bottom",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1073831006": {
+    "direction": [
+      {
+        "question": "What is the direction of the zebras' movement?\nA. from right to left\nB. from left to right\nC. from top to bottom",
+        "answer": "B. from left to right",
+        "prediction": "A"
+      },
+      {
+        "question": "In what direction are the zebras moving?\nA. from left to right relative to the camera\nB. away from the camera\nC. towards the camera\nD. from right to left relative to the camera",
+        "answer": "A. from left to right relative to the camera",
+        "prediction": "D"
+      },
+      {
+        "question": "Which direction are the zebras heading?\nA. downward\nB. leftward\nC. rightward\nD. upward",
+        "answer": "C. rightward",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1092278063": {
+    "direction": [
+      {
+        "question": "What is the direction of the two rows of duck toy?\nA. moving in opposite directions on a conveyor belt\nB. moving in the same direction on a conveyor belt\nC. not moving on a conveyor belt",
+        "answer": "A. moving in opposite directions on a conveyor belt",
+        "prediction": "A"
+      },
+      {
+        "question": "What is the movement pattern of the two rows of duck toy on a conveyor belt?\nA. circular motion\nB. straight motion\nC. zigzag motion",
+        "answer": "B. straight motion",
+        "prediction": "C"
+      },
+      {
+        "question": "Which direction are the two rows of duck toy moving relative to each other?\nA. perpendicular to each other\nB. in opposite directions\nC. in the same direction",
+        "answer": "B. in opposite directions",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1024867412": {
+    "direction": [
+      {
+        "question": "What direction is the car driving?\nA. Taking a left turn\nB. Going straight\nC. Taking a right turn\nD. Going backward",
+        "answer": "C. Taking a right turn",
+        "prediction": "B"
+      },
+      {
+        "question": "In which direction is the car moving?\nA. Left\nB. Right\nC. Backward\nD. Forward",
+        "answer": "B. Right",
+        "prediction": "D"
+      },
+      {
+        "question": "What maneuver is the car making?\nA. Making a left turn\nB. Parked on the street\nC. Driving backward\nD. Making a right turn",
+        "answer": "D. Making a right turn",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1076877854": {
+    "direction": [
+      {
+        "question": "Which direction is the closest robotic arm moving from the camera's point of view?\nA. To the right side of the screen\nB. Towards the camera\nC. Away from the camera\nD. To the left side of the screen",
+        "answer": "A. To the right side of the screen",
+        "prediction": "C"
+      },
+      {
+        "question": "What motion can be observed about the closest robotic arm?\nA. Rotating\nB. Moving to the left side of the screen\nC. Oscillating\nD. Moving to the right side of the screen",
+        "answer": "D. Moving to the right side of the screen",
+        "prediction": "B"
+      },
+      {
+        "question": "What kind of movement does the closest robotic arm exhibit?\nA. Shifting to the left side of the screen\nB. Ascending and descending\nC. Shifting to the right side of the screen\nD. Swaying back and forth",
+        "answer": "C. Shifting to the right side of the screen",
+        "prediction": "B"
+      }
+    ]
+  },
+  "3411806181": {
+    "direction": [
+      {
+        "question": "Which direction is the person moving the charging gun?\nA. Away from the car\nB. Parallel to the car\nC. Towards the car",
+        "answer": "C. Towards the car",
+        "prediction": "A"
+      },
+      {
+        "question": "What action is the person performing on the charging gun?\nA. holding it still\nB. unpluging it from the car\nC. plugging it into the car",
+        "answer": "C. plugging it into the car",
+        "prediction": "B"
+      },
+      {
+        "question": "Towards which side is the person moving the charging gun?\nA. himself\nB. the car\nC. none of both",
+        "answer": "B. the car",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1056433484": {
+    "direction": [
+      {
+        "question": "What is the direction of the Earth's motion around the Sun?\nA. Counter-clockwise\nB. Clockwise\nC. Upwards",
+        "answer": "A. Counter-clockwise",
+        "prediction": "A"
+      },
+      {
+        "question": "In which direction does the Earth travel in its orbit around the Sun?\nA. Clockwise\nB. Counter-clockwise\nC. Vertical",
+        "answer": "B. Counter-clockwise",
+        "prediction": "B"
+      },
+      {
+        "question": "The Earth's rotation in relation to the Sun follows a ____________ direction.\nA. Counter-clockwise\nB. Clockwise\nC. Horizontal",
+        "answer": "A. Counter-clockwise",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1073914229": {
+    "direction": [
+      {
+        "question": "What direction are the trains moving?\nA. in the same direction\nB. towards each other\nC. away from each other",
+        "answer": "B. towards each other",
+        "prediction": "A"
+      },
+      {
+        "question": "In what manner are the trains traveling?\nA. stopped\nB. in the same direction\nC. towards each other\nD. away from each other",
+        "answer": "C. towards each other",
+        "prediction": "B"
+      },
+      {
+        "question": "What is the trajectory of the trains?\nA. perpendicular to each other\nB. moving away from each other\nC. proceeding in the same way\nD. moving towards each other",
+        "answer": "D. moving towards each other",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1080591311": {
+    "direction": [
+      {
+        "question": "What direction is the jellyfish moving?\nA. moving towards the right\nB. floating upwards\nC. moving towards the left\nD. sinking downwards",
+        "answer": "B. floating upwards",
+        "prediction": "D"
+      },
+      {
+        "question": "What is the direction of motion for the jellyfish?\nA. floating to the right\nB. floating to the left\nC. floating downwards\nD. floating upwards",
+        "answer": "D. floating upwards",
+        "prediction": "C"
+      },
+      {
+        "question": "Which way is the jellyfish moving?\nA. going down\nB. going away from the screen\nC. going towards the screen\nD. going up",
+        "answer": "D. going up",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1100117263": {
+    "direction": [
+      {
+        "question": "What is the direction of the little lion's motion?\nA. downward\nB. upward\nC. towards the camera\nD. rightward",
+        "answer": "A. downward",
+        "prediction": "D"
+      },
+      {
+        "question": "What is the little lion doing?\nA. sitting nearby an adult lion\nB. sitting on the back of an adult lion\nC. falling from the back of an adult lion\nD. jumping onto the back of an adult lion",
+        "answer": "C. falling from the back of an adult lion",
+        "prediction": "C"
+      },
+      {
+        "question": "In what direction is the little lion going?\nA. falling down\nB. climbing up\nC. walking forward\nD. walking backward",
+        "answer": "A. falling down",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1021488277": {
+    "direction": [
+      {
+        "question": "What is happening in the video? \nA. A person drops down the pineapple\nB. A person pushes forward the pineapple\nC. A person rotates the pineapple\nD. A person picks up the pineapple",
+        "answer": "D. A person picks up the pineapple",
+        "prediction": "B"
+      },
+      {
+        "question": "What action is taking place in the video?\nA. The pineapple is being dropped by a person.\nB. The pineapple is being rotated by a person.\nC. The pineapple is being pushed forward by a person.\nD. The pineapple is being picked up by a person.",
+        "answer": "D. The pineapple is being picked up by a person.",
+        "prediction": "C"
+      },
+      {
+        "question": "What can be observed in the video?\nA. The pineapple is rotated by a person.\nB. The pineapple is pushed in a forward direction.\nC. The pineapple is lifted by an individual.\nD. The pineapple is released and falls downward.",
+        "answer": "C. The pineapple is lifted by an individual.",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1100397435": {
+    "direction": [
+      {
+        "question": "What direction is the robot vacuum cleaner moving in the video?\nA. to the right side of the screen\nB. to the left side of the screen\nC. towards the screen\nD. away from the screen",
+        "answer": "A. to the right side of the screen",
+        "prediction": "C"
+      },
+      {
+        "question": "What is the movement pattern of the robot vacuum cleaner?\nA. straight line towards the screen\nB. straight line to the right side of the screen\nC. straight line to the left side of the screen\nD. straight line away from the screen",
+        "answer": "B. straight line to the right side of the screen",
+        "prediction": "D"
+      },
+      {
+        "question": "Where is the robot vacuum cleaner heading?\nA. to the lower side of the screen\nB. to the upper side of the screen\nC. to the left side of the screen\nD. to the right side of the screen",
+        "answer": "D. to the right side of the screen",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1108534143": {
+    "direction": [
+      {
+        "question": "What is the puppy doing in the video?\nA. staying in a wigwam\nB. walking into a wigwam\nC. walking out of a wigwam",
+        "answer": "C. walking out of a wigwam",
+        "prediction": "C"
+      },
+      {
+        "question": "In which direction is the puppy moving?\nA. walking out of a wigwam\nB. entring a wigwam\nC. walking around a wigwam",
+        "answer": "A. walking out of a wigwam",
+        "prediction": "A"
+      },
+      {
+        "question": "What action is the puppy taking?\nA. entring a wigwam\nB. walking out of a wigwam\nC. walking around a wigwam",
+        "answer": "B. walking out of a wigwam",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1047368344": {
+    "direction": [
+      {
+        "question": "What is the girl doing?\nA. jumping into water\nB. jumping around water\nC. swimming in the water\nD. jumping out of water",
+        "answer": "A. jumping into water",
+        "prediction": "A"
+      },
+      {
+        "question": "How is the girl moving?\nA. towards the camera\nB. towards the water\nC. away from the water",
+        "answer": "B. towards the water",
+        "prediction": "C"
+      },
+      {
+        "question": "In which direction is the girl moving?\nA. towards the water\nB. away from the water\nC. inside the water",
+        "answer": "A. towards the water",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1089201973_reverse": {
+    "direction": [
+      {
+        "question": "What is the direction of the football in the video?\nA. moving from left to right\nB. moving from right to left\nC. stationary",
+        "answer": "B. moving from right to left",
+        "prediction": "B"
+      },
+      {
+        "question": "In which direction is the football traveling?\nA. Rightwards\nB. Upwards\nC. Leftwards\nD. Downwards",
+        "answer": "C. Leftwards",
+        "prediction": "A"
+      },
+      {
+        "question": "How would you describe the path of the football?\nA. from bottom to top\nB. from right to left\nC. from left to right\nD. from top to bottom",
+        "answer": "B. from right to left",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1034736653_reverse": {
+    "direction": [
+      {
+        "question": "In which direction are the woman athletes running?\nA. from right to left\nB. in circles\nC. from left to right",
+        "answer": "A. from right to left",
+        "prediction": "C"
+      },
+      {
+        "question": "From which side are the woman athletes entering the screen?\nA. right\nB. top\nC. left\nD. bottom",
+        "answer": "A. right",
+        "prediction": "C"
+      },
+      {
+        "question": "Which way are the woman athletes heading?\nA. from left to right\nB. away from the camera\nC. from right to left\nD. towards the camera",
+        "answer": "C. from right to left",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1084153195_reverse": {
+    "direction": [
+      {
+        "question": "What is the movement of the dolphins?\nA. swimming towards the shore\nB. hovering in one place\nC. swimming away from the shore",
+        "answer": "C. swimming away from the shore",
+        "prediction": "C"
+      },
+      {
+        "question": "In which direction are the dolphins swimming?\nA. parallel to the shore\nB. towards the shore\nC. away from the shore",
+        "answer": "C. away from the shore",
+        "prediction": "C"
+      },
+      {
+        "question": "If you observe the dolphins, what direction would you notice them heading?\nA. towards the shore\nB. parallel to the shore\nC. away from the shore",
+        "answer": "C. away from the shore",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1081092839_reverse": {
+    "direction": [
+      {
+        "question": "What is the direction of the sun?\nA. descending\nB. ascending\nC. moving sideways",
+        "answer": "B. ascending",
+        "prediction": "B"
+      },
+      {
+        "question": "What is the movement pattern of the sun?\nA. falling\nB. rising\nC. remaining still",
+        "answer": "B. rising",
+        "prediction": "B"
+      },
+      {
+        "question": "What is the movement direction of the sun?\nA. descending\nB. ascending\nC. rotating",
+        "answer": "B. ascending",
+        "prediction": "A"
+      },
+      {
+        "question": "In what direction does the sun travel during sunset?\nA. downwards\nB. upwards\nC. horizontally",
+        "answer": "B. upwards",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1059462749_reverse": {
+    "direction": [
+      {
+        "question": "In which direction is the person moving?\nA. rightwards\nB. downwards\nC. upwards\nD. leftwards",
+        "answer": "C. upwards",
+        "prediction": "C"
+      },
+      {
+        "question": "What word describes the movement of the person?\nA. standing\nB. descending\nC. climbing up\nD. jumping",
+        "answer": "C. climbing up",
+        "prediction": "B"
+      },
+      {
+        "question": "From a higher point to a lower point, the person is:\nA. rotating\nB. rising\nC. staying still\nD. descending",
+        "answer": "B. rising",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1088279109_reverse": {
+    "direction": [
+      {
+        "question": "What is the elevator doing?\nA. rising\nB. going down\nC. staying still",
+        "answer": "B. going down",
+        "prediction": "A"
+      },
+      {
+        "question": "In which direction is the elevator moving?\nA. up\nB. down\nC. not moving",
+        "answer": "B. down",
+        "prediction": "A"
+      },
+      {
+        "question": "What is the direction of the elevator's movement?\nA. descending\nB. ascending\nC. stationary",
+        "answer": "A. descending",
+        "prediction": "A"
+      },
+      {
+        "question": "Which way is the elevator going?\nA. up\nB. down\nC. stopped",
+        "answer": "B. down",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1075484900_reverse": {
+    "direction": [
+      {
+        "question": "Which way is the child facing in relation to the man?\nA. Forward\nB. Turning towards the man\nC. Turning away from the man\nD. Backward",
+        "answer": "B. Turning towards the man",
+        "prediction": "B"
+      },
+      {
+        "question": "In what direction is the child moving in relation to the man?\nA. Backward\nB. Forward\nC. Turning away from the man\nD. Turning towards the man",
+        "answer": "D. Turning towards the man",
+        "prediction": "C"
+      },
+      {
+        "question": "What is the orientation of the child with respect to the man?\nA. Downwards\nB. Upwards\nC. Turning away from the man\nD. Turning towards the man",
+        "answer": "D. Turning towards the man",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1090578917_reverse": {
+    "direction": [
+      {
+        "question": "What direction is the man leaping?\nA. to his left\nB. backward\nC. forward\nD. to his right",
+        "answer": "A. to his left",
+        "prediction": "A"
+      },
+      {
+        "question": "Which way is the man moving?\nA. left\nB. forwards\nC. right\nD. up",
+        "answer": "A. left",
+        "prediction": "A"
+      },
+      {
+        "question": "What is the direction of the man's movement?\nA. counterclockwise\nB. horizontal\nC. vertically\nD. clockwise",
+        "answer": "B. horizontal",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1075338140_reverse": {
+    "direction": [
+      {
+        "question": "What is the direction of the ball?\nA. forward and backward\nB. spinning in place\nC. rolling from left to right\nD. rolling from right to left",
+        "answer": "D. rolling from right to left",
+        "prediction": "C"
+      },
+      {
+        "question": "Which way is the ball moving?\nA. counterclockwise\nB. rolling from left to right\nC. clockwise\nD. rolling from right to left",
+        "answer": "D. rolling from right to left",
+        "prediction": "B"
+      },
+      {
+        "question": "In which direction does the ball travel?\nA. straight ahead\nB. rolling from left to right\nC. rolling from right to left\nD. floating in mid-air",
+        "answer": "C. rolling from right to left",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1067268403_reverse": {
+    "direction": [
+      {
+        "question": "What is the movement direction of the wind turbines?\nA. Stationary\nB. Rotating clockwise\nC. Rotating counterclockwise",
+        "answer": "C. Rotating counterclockwise",
+        "prediction": "B"
+      },
+      {
+        "question": "Which way are the wind turbines rotating?\nA. Randomly\nB. Clockwise\nC. Anti-clockwise",
+        "answer": "C. Anti-clockwise",
+        "prediction": "B"
+      },
+      {
+        "question": "In which direction are the wind turbines turning?\nA. Anticlockwise\nB. Still\nC. Clockwise",
+        "answer": "A. Anticlockwise",
+        "prediction": "C"
+      },
+      {
+        "question": "What is the rotational direction of the wind turbines?\nA. Clockwise\nB. Anti-clockwise\nC. Unchanging",
+        "answer": "B. Anti-clockwise",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1096007487_reverse": {
+    "direction": [
+      {
+        "question": "From the camera's point of view, in which direction is the 3d cloud moving?\nA. upward\nB. downward\nC. leftward\nD. rightward",
+        "answer": "D. rightward",
+        "prediction": "B"
+      },
+      {
+        "question": "How is the 3d cloud moving from the camera's point of view?\nA. contracting\nB. spinning leftward\nC. spinning rightward\nD. expanding",
+        "answer": "C. spinning rightward",
+        "prediction": "A"
+      },
+      {
+        "question": "What is the movement pattern of the 3d cloud as seen from the camera's point of view?\nA. from right to left\nB. rotating clockwise\nC. rotating counter-clockwise\nD. from left to right",
+        "answer": "D. from left to right",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1095939659_reverse": {
+    "direction": [
+      {
+        "question": "In which direction is the light growing?\nA. Downwards\nB. Clockwise\nC. Counterclockwise\nD. Upwards",
+        "answer": "C. Counterclockwise",
+        "prediction": "B"
+      },
+      {
+        "question": "What is the direction of the light's movement?\nA. Clockwise\nB. Anticlockwise\nC. Straight forward\nD. Downwards",
+        "answer": "B. Anticlockwise",
+        "prediction": "A"
+      },
+      {
+        "question": "How is the light changing direction?\nA. Spinning vertically\nB. Rotating clockwise\nC. Shifting diagonally\nD. Disappearing counterclockwise",
+        "answer": "D. Disappearing counterclockwise",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1098785169_reverse": {
+    "direction": [
+      {
+        "question": "What is the direction of the galaxy's spin?\nA. counterclockwise\nB. left to right\nC. clockwise\nD. up and down",
+        "answer": "A. counterclockwise",
+        "prediction": "C"
+      },
+      {
+        "question": "In which direction is the galaxy rotating?\nA. backward\nB. counter clockwise\nC. clockwise\nD. forward",
+        "answer": "B. counter clockwise",
+        "prediction": "B"
+      },
+      {
+        "question": "How is the galaxy spinning?\nA. backward\nB. counter clockwise\nC. clockwise\nD. forward",
+        "answer": "B. counter clockwise",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1099984801_reverse": {
+    "direction": [
+      {
+        "question": "What is the movement of the clouds?\nA. moving away from the camera\nB. staying still\nC. moving towards the camera",
+        "answer": "A. moving away from the camera",
+        "prediction": "A"
+      },
+      {
+        "question": "In what direction are the clouds heading?\nA. towards the camera\nB. upward\nC. downward\nD. away from the camera",
+        "answer": "D. away from the camera",
+        "prediction": "D"
+      },
+      {
+        "question": "What is the movement direction of the clouds?\nA. forward\nB. in a circular motion\nC. side to side\nD. backward",
+        "answer": "A. forward",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1058985719_reverse": {
+    "direction": [
+      {
+        "question": "What is the direction in which the airplane is flying?\nA. bottom to top\nB. right to left\nC. top to bottom\nD. left to right",
+        "answer": "C. top to bottom",
+        "prediction": "A"
+      },
+      {
+        "question": "Which way is the airplane moving on the screen?\nA. anticlockwise\nB. upwards\nC. clockwise\nD. downwards",
+        "answer": "D. downwards",
+        "prediction": "B"
+      },
+      {
+        "question": "What is the trajectory of the airplane?\nA. vertically upwards\nB. vertically downwards\nC. horizontally rightwards\nD. horizontally leftwards",
+        "answer": "B. vertically downwards",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1055413730_reverse": {
+    "direction": [
+      {
+        "question": "In which direction is the planet Earth spinning?\nA. Rightwards\nB. Downwards\nC. Leftwards\nD. Upwards",
+        "answer": "C. Leftwards",
+        "prediction": "A"
+      },
+      {
+        "question": "Considering the camera's perspective, what is the rotational movement of the planet Earth?\nA. spinning to the left\nB. rotating upward\nC. spinning to the right",
+        "answer": "A. spinning to the left",
+        "prediction": "A"
+      },
+      {
+        "question": "What is the apparent motion of the Earth based on the camera's viewpoint?\nA. away from the camera\nB. towards the camera\nC. spinning to the right\nD. spinning to the left",
+        "answer": "D. spinning to the left",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1081684532_reverse": {
+    "direction": [
+      {
+        "question": "What is the direction of the asteroids in the video?\nA. flying away from the camera\nB. flying to the left\nC. flying towards the camera\nD. flying to the right",
+        "answer": "A. flying away from the camera",
+        "prediction": "A"
+      },
+      {
+        "question": "Which direction are the asteroids moving?\nA. downwards\nB. towards the camera\nC. upwards\nD. away from the camera",
+        "answer": "D. away from the camera",
+        "prediction": "D"
+      },
+      {
+        "question": "Which way are the asteroids going?\nA. towards the camera\nB. parallel to the camera\nC. away from the camera",
+        "answer": "C. away from the camera",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1057163434_reverse": {
+    "direction": [
+      {
+        "question": "What is the chef doing with the bread?\nA. removing it from the top of the burger\nB. putting it on top of the burger\nC. putting it inside the burger\nD. throwing it away",
+        "answer": "A. removing it from the top of the burger",
+        "prediction": "B"
+      },
+      {
+        "question": "Which direction is the chef moving the bread?\nA. throwing it away\nB. removing it from the burger\nC. putting it on top of the burger\nD. putting it inside the burger",
+        "answer": "B. removing it from the burger",
+        "prediction": "C"
+      },
+      {
+        "question": "Which action is the chef performing with the bread?\nA. putting it on top of the burger\nB. picking it up from the burger\nC. inserting it inside the burger",
+        "answer": "B. picking it up from the burger",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1100319395_reverse": {
+    "direction": [
+      {
+        "question": "What direction is the circular pattern moving?\nA. clockwise\nB. moving towards the camera\nC. counter-clockwise\nD. moving away from the camera",
+        "answer": "C. counter-clockwise",
+        "prediction": "A"
+      },
+      {
+        "question": "Which way is the circular pattern moving?\nA. spinning clockwise\nB. spinning counter-clockwise\nC. vibrating back and forth",
+        "answer": "B. spinning counter-clockwise",
+        "prediction": "B"
+      },
+      {
+        "question": "In which direction is the circular pattern spinning?\nA. towards the screen\nB. anticlockwise\nC. clockwise\n D. away from the screen",
+        "answer": "B. anticlockwise",
+        "prediction": "C"
+      }
+    ]
+  },
+  "3396473605_reverse": {
+    "direction": [
+      {
+        "question": "In which direction do the five stars disappear?\nA. from right to left\nB. from top to bottom\nC. from left to right\nD. from bottom to top",
+        "answer": "A. from right to left",
+        "prediction": "A"
+      },
+      {
+        "question": "Which star disappears first?\nA. the star in the center\nB. the star in the right\nC. the star in the left\nD. all stars appear at the same time",
+        "answer": "B. the star in the right",
+        "prediction": "B"
+      },
+      {
+        "question": "What is the direction that the stars disappear?\nA. from right to left\nB. from left to right\nC. upwards\nD. downwards",
+        "answer": "A. from right to left",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1086820415_reverse": {
+    "direction": [
+      {
+        "question": "What is the direction of motion of the large wave?\nA. moving vertically towards the top of the screen\nB. moving horizontally towards the right side of the screen\nC. moving vertically towards the bottom of the screen\nD. moving horizontally towards the left side of the screen",
+        "answer": "A. moving vertically towards the top of the screen",
+        "prediction": "C"
+      },
+      {
+        "question": "Which direction does the large wave move in the video?\nA. vertically towards the top of the screen\nB. diagonally towards the bottom-right corner\nC. vertically towards the bottom of the screen\nD. diagonally towards the top-left corner",
+        "answer": "A. vertically towards the top of the screen",
+        "prediction": "C"
+      },
+      {
+        "question": "How does the large wave travel across the screen?\nA. moving vertically towards the bottom\nB. contracting towards the center\nC. moving vertically towards the top\nD. expanding from the center",
+        "answer": "C. moving vertically towards the top",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1073831006_reverse": {
+    "direction": [
+      {
+        "question": "What is the direction of the zebras' movement?\nA. from right to left\nB. from left to right\nC. from top to bottom",
+        "answer": "A. from right to left",
+        "prediction": "C"
+      },
+      {
+        "question": "In what direction are the zebras moving?\nA. from left to right relative to the camera\nB. away from the camera\nC. towards the camera\nD. from right to left relative to the camera",
+        "answer": "D. from right to left relative to the camera",
+        "prediction": "B"
+      },
+      {
+        "question": "Which direction are the zebras heading?\nA. downward\nB. leftward\nC. rightward\nD. upward",
+        "answer": "B. leftward",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1024867412_reverse": {
+    "direction": [
+      {
+        "question": "What direction is the car driving?\nA. Taking a left turn\nB. Going straight\nC. Taking a right turn\nD. Going backward",
+        "answer": "A. Taking a left turn",
+        "prediction": "B"
+      },
+      {
+        "question": "In which direction is the car moving?\nA. Left\nB. Right\nC. Backward\nD. Forward",
+        "answer": "A. Left",
+        "prediction": "D"
+      },
+      {
+        "question": "What maneuver is the car making?\nA. Making a left turn\nB. Parked on the street\nC. Driving backward\nD. Making a right turn",
+        "answer": "A. Making a left turn",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1076877854_reverse": {
+    "direction": [
+      {
+        "question": "Which direction is the closest robotic arm moving from the camera's point of view?\nA. To the right side of the screen\nB. Towards the camera\nC. Away from the camera\nD. To the left side of the screen",
+        "answer": "D. To the left side of the screen",
+        "prediction": "C"
+      },
+      {
+        "question": "What motion can be observed about the closest robotic arm?\nA. Rotating\nB. Moving to the left side of the screen\nC. Oscillating\nD. Moving to the right side of the screen",
+        "answer": "B. Moving to the left side of the screen",
+        "prediction": "C"
+      },
+      {
+        "question": "What kind of movement does the closest robotic arm exhibit?\nA. Shifting to the left side of the screen\nB. Ascending and descending\nC. Shifting to the right side of the screen\nD. Swaying back and forth",
+        "answer": "A. Shifting to the left side of the screen",
+        "prediction": "B"
+      }
+    ]
+  },
+  "3411806181_reverse": {
+    "direction": [
+      {
+        "question": "Which direction is the person moving the charging gun?\nA. Away from the car\nB. Parallel to the car\nC. Towards the car",
+        "answer": "A. Away from the car",
+        "prediction": "A"
+      },
+      {
+        "question": "What action is the person performing on the charging gun?\nA. holding it still\nB. unpluging it from the car\nC. plugging it into the car",
+        "answer": "B. unpluging it from the car",
+        "prediction": "B"
+      },
+      {
+        "question": "Towards which side is the person moving the charging gun?\nA. himself\nB. the car\nC. none of both",
+        "answer": "A. himself",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1073914229_reverse": {
+    "direction": [
+      {
+        "question": "What direction are the trains moving?\nA. in the same direction\nB. towards each other\nC. away from each other",
+        "answer": "C. away from each other",
+        "prediction": "A"
+      },
+      {
+        "question": "In what manner are the trains traveling?\nA. stopped\nB. in the same direction\nC. towards each other\nD. away from each other",
+        "answer": "D. away from each other",
+        "prediction": "B"
+      },
+      {
+        "question": "What is the trajectory of the trains?\nA. perpendicular to each other\nB. moving away from each other\nC. proceeding in the same way\nD. moving towards each other",
+        "answer": "B. moving away from each other",
+        "prediction": "C"
+      }
+    ]
+  },
+  "1080591311_reverse": {
+    "direction": [
+      {
+        "question": "What direction is the jellyfish moving?\nA. moving towards the right\nB. floating upwards\nC. moving towards the left\nD. sinking downwards",
+        "answer": "D. sinking downwards",
+        "prediction": "B"
+      },
+      {
+        "question": "What is the direction of motion for the jellyfish?\nA. floating to the right\nB. floating to the left\nC. floating downwards\nD. floating upwards",
+        "answer": "C. floating downwards",
+        "prediction": "D"
+      },
+      {
+        "question": "Which way is the jellyfish moving?\nA. going down\nB. going away from the screen\nC. going towards the screen\nD. going up",
+        "answer": "A. going down",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1100117263_reverse": {
+    "direction": [
+      {
+        "question": "What is the direction of the little lion's motion?\nA. downward\nB. upward\nC. towards the camera\nD. rightward",
+        "answer": "B. upward",
+        "prediction": "C"
+      },
+      {
+        "question": "What is the little lion doing?\nA. sitting nearby an adult lion\nB. sitting on the back of an adult lion\nC. falling from the back of an adult lion\nD. jumping onto the back of an adult lion",
+        "answer": "D. jumping onto the back of an adult lion",
+        "prediction": "D"
+      },
+      {
+        "question": "In what direction is the little lion going?\nA. falling down\nB. climbing up\nC. walking forward\nD. walking backward",
+        "answer": "B. climbing up",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1021488277_reverse": {
+    "direction": [
+      {
+        "question": "What is happening in the video? \nA. A person drops down the pineapple\nB. A person pushes forward the pineapple\nC. A person rotates the pineapple\nD. A person picks up the pineapple",
+        "answer": "A. A person drops down the pineapple",
+        "prediction": "B"
+      },
+      {
+        "question": "What action is taking place in the video?\nA. The pineapple is being dropped by a person.\nB. The pineapple is being rotated by a person.\nC. The pineapple is being pushed forward by a person.\nD. The pineapple is being picked up by a person.",
+        "answer": "A. The pineapple is being dropped by a person.",
+        "prediction": "C"
+      },
+      {
+        "question": "What can be observed in the video?\nA. The pineapple is rotated by a person.\nB. The pineapple is pushed in a forward direction.\nC. The pineapple is lifted by an individual.\nD. The pineapple is put down.",
+        "answer": "D. The pineapple is put down.",
+        "prediction": "A"
+      }
+    ]
+  },
+  "1100397435_reverse": {
+    "direction": [
+      {
+        "question": "What direction is the robot vacuum cleaner moving in the video?\nA. to the right side of the screen\nB. to the left side of the screen\nC. towards the screen\nD. away from the screen",
+        "answer": "B. to the left side of the screen",
+        "prediction": "A"
+      },
+      {
+        "question": "What is the movement pattern of the robot vacuum cleaner?\nA. straight line towards the screen\nB. straight line to the right side of the screen\nC. straight line to the left side of the screen\nD. straight line away from the screen",
+        "answer": "C. straight line to the left side of the screen",
+        "prediction": "D"
+      },
+      {
+        "question": "Where is the robot vacuum cleaner heading?\nA. to the lower side of the screen\nB. to the upper side of the screen\nC. to the left side of the screen\nD. to the right side of the screen",
+        "answer": "C. to the left side of the screen",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1108534143_reverse": {
+    "direction": [
+      {
+        "question": "What is the puppy doing in the video?\nA. staying in a wigwam\nB. walking into a wigwam\nC. walking out of a wigwam",
+        "answer": "B. walking into a wigwam",
+        "prediction": "C"
+      },
+      {
+        "question": "In which direction is the puppy moving?\nA. walking out of a wigwam\nB. entring a wigwam\nC. walking around a wigwam",
+        "answer": "B. entring a wigwam",
+        "prediction": "A"
+      },
+      {
+        "question": "What action is the puppy taking?\nA. entring a wigwam\nB. walking out of a wigwam\nC. walking around a wigwam",
+        "answer": "A. entring a wigwam",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1047368344_reverse": {
+    "direction": [
+      {
+        "question": "What is the girl doing?\nA. jumping into water\nB. jumping around water\nC. swimming in the water\nD. jumping out of water",
+        "answer": "D. jumping out of water",
+        "prediction": "A"
+      },
+      {
+        "question": "How is the girl moving?\nA. towards the camera\nB. towards the water\nC. away from the water",
+        "answer": "C. away from the water",
+        "prediction": "C"
+      },
+      {
+        "question": "In which direction is the girl moving?\nA. towards the water\nB. away from the water\nC. inside the water",
+        "answer": "B. away from the water",
+        "prediction": "B"
+      }
+    ]
+  },
+  "1086286649": {
+    "direction": [
+      {
+        "question": "Which way are the armored vehicles moving from the camera's point of view?\nA. Stationary\nB. Right to left\nC. Left to right",
+        "answer": "B. Right to left",
+        "prediction": "B"
+      },
+      {
+        "question": "Towards which direction are the armored vehicles approaching?\nA. The right side of screen\nB. The upper side of screen\nC. The lower side of screen\nD. The left side of screen",
+        "answer": "D. The left side of screen",
+        "prediction": "D"
+      },
+      {
+        "question": "How are the armored vehicles proceeding?\nA. From bottom to top\nB. From top to bottom\nC. From left to right\nD. From right to left",
+        "answer": "D. From right to left",
+        "prediction": "D"
+      }
+    ]
+  },
+  "1104663381": {
+    "direction": [
+      {
+        "question": "What is the direction in which the pizza dough is rotating?\nA. counter-clockwise\nB. clockwise\nC. it is not rotating",
+        "answer": "A. counter-clockwise",
+        "prediction": "B"
+      },
+      {
+        "question": "In what direction is the pizza dough moving?\nA. flipping up and down\nB. rotating clockwise\nC. rotating counter-clockwise\nD. flipping left and right",
+        "answer": "C. rotating counter-clockwise",
+        "prediction": "A"
+      },
+      {
+        "question": "What is the rotational direction of the pizza dough?\nA. clockwise\nB. stationary\nC. anti-clockwise",
+        "answer": "C. anti-clockwise",
+        "prediction": "A"
+      }
+    ]
+  }
+}
